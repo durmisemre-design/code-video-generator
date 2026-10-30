@@ -1,0 +1,593 @@
+{
+	"systeminfo": "AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | METAL = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | SSSE3 = 0 | VSX = 0 | CUDA = 0 | COREML = 0 | OPENVINO = 0",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "whisper/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "tr",
+		"translate": false
+	},
+	"result": {
+		"language": "tr"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,080"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 80
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,080",
+				"to": "00:00:03,870"
+			},
+			"offsets": {
+				"from": 80,
+				"to": 3870
+			},
+			"text": " DGI"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,870",
+				"to": "00:00:04,660"
+			},
+			"offsets": {
+				"from": 3870,
+				"to": 4660
+			},
+			"text": " 3'e"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,660",
+				"to": "00:00:06,750"
+			},
+			"offsets": {
+				"from": 4660,
+				"to": 6750
+			},
+			"text": " DGI"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,750",
+				"to": "00:00:07,820"
+			},
+			"offsets": {
+				"from": 6750,
+				"to": 7820
+			},
+			"text": " 3'e"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,820",
+				"to": "00:00:08,140"
+			},
+			"offsets": {
+				"from": 7820,
+				"to": 8140
+			},
+			"text": " iki"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,140",
+				"to": "00:00:08,390"
+			},
+			"offsets": {
+				"from": 8140,
+				"to": 8390
+			},
+			"text": " katı"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,390",
+				"to": "00:00:08,640"
+			},
+			"offsets": {
+				"from": 8390,
+				"to": 8640
+			},
+			"text": " para"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,640",
+				"to": "00:00:09,200"
+			},
+			"offsets": {
+				"from": 8640,
+				"to": 9200
+			},
+			"text": " vermeden"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,200",
+				"to": "00:00:09,560"
+			},
+			"offsets": {
+				"from": 9200,
+				"to": 9560
+			},
+			"text": " önce"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,560",
+				"to": "00:00:10,160"
+			},
+			"offsets": {
+				"from": 9560,
+				"to": 10160
+			},
+			"text": " kesinlikle"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,160",
+				"to": "00:00:10,280"
+			},
+			"offsets": {
+				"from": 10160,
+				"to": 10280
+			},
+			"text": " bu"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,280",
+				"to": "00:00:10,700"
+			},
+			"offsets": {
+				"from": 10280,
+				"to": 10700
+			},
+			"text": " videoyu"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,700",
+				"to": "00:00:11,380"
+			},
+			"offsets": {
+				"from": 10700,
+				"to": 11380
+			},
+			"text": " izlemelisin."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,380",
+				"to": "00:00:11,590"
+			},
+			"offsets": {
+				"from": 11380,
+				"to": 11590
+			},
+			"text": " Şu"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,590",
+				"to": "00:00:11,810"
+			},
+			"offsets": {
+				"from": 11590,
+				"to": 11810
+			},
+			"text": " an"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,810",
+				"to": "00:00:12,310"
+			},
+			"offsets": {
+				"from": 11810,
+				"to": 12310
+			},
+			"text": " elimde"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,310",
+				"to": "00:00:13,240"
+			},
+			"offsets": {
+				"from": 12310,
+				"to": 13240
+			},
+			"text": " gördüğünüz"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,240",
+				"to": "00:00:13,380"
+			},
+			"offsets": {
+				"from": 13240,
+				"to": 13380
+			},
+			"text": " bu"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,380",
+				"to": "00:00:13,760"
+			},
+			"offsets": {
+				"from": 13380,
+				"to": 13760
+			},
+			"text": " cihaz"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,760",
+				"to": "00:00:14,300"
+			},
+			"offsets": {
+				"from": 13760,
+				"to": 14300
+			},
+			"text": " DGI"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,300",
+				"to": "00:00:15,000"
+			},
+			"offsets": {
+				"from": 14300,
+				"to": 15000
+			},
+			"text": " serisinin"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,000",
+				"to": "00:00:15,420"
+			},
+			"offsets": {
+				"from": 15000,
+				"to": 15420
+			},
+			"text": " mini"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,420",
+				"to": "00:00:16,080"
+			},
+			"offsets": {
+				"from": 15420,
+				"to": 16080
+			},
+			"text": " 2'si"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,080",
+				"to": "00:00:16,380"
+			},
+			"offsets": {
+				"from": 16080,
+				"to": 16380
+			},
+			"text": " ve"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,380",
+				"to": "00:00:16,580"
+			},
+			"offsets": {
+				"from": 16380,
+				"to": 16580
+			},
+			"text": " DGI"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,580",
+				"to": "00:00:17,090"
+			},
+			"offsets": {
+				"from": 16580,
+				"to": 17090
+			},
+			"text": " 3'e"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,090",
+				"to": "00:00:17,620"
+			},
+			"offsets": {
+				"from": 17090,
+				"to": 17620
+			},
+			"text": " göre"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,620",
+				"to": "00:00:18,100"
+			},
+			"offsets": {
+				"from": 17620,
+				"to": 18100
+			},
+			"text": " yarı"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,100",
+				"to": "00:00:19,080"
+			},
+			"offsets": {
+				"from": 18100,
+				"to": 19080
+			},
+			"text": " fiyatına."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,080",
+				"to": "00:00:19,990"
+			},
+			"offsets": {
+				"from": 19080,
+				"to": 19990
+			},
+			"text": " Finlandiya'da"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,990",
+				"to": "00:00:20,690"
+			},
+			"offsets": {
+				"from": 19990,
+				"to": 20690
+			},
+			"text": " yaklaşık"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,690",
+				"to": "00:00:21,320"
+			},
+			"offsets": {
+				"from": 20690,
+				"to": 21320
+			},
+			"text": " 109"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,320",
+				"to": "00:00:21,740"
+			},
+			"offsets": {
+				"from": 21320,
+				"to": 21740
+			},
+			"text": " euroya"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,740",
+				"to": "00:00:22,160"
+			},
+			"offsets": {
+				"from": 21740,
+				"to": 22160
+			},
+			"text": " aldım"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,160",
+				"to": "00:00:22,290"
+			},
+			"offsets": {
+				"from": 22160,
+				"to": 22290
+			},
+			"text": " ve"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,290",
+				"to": "00:00:22,790"
+			},
+			"offsets": {
+				"from": 22290,
+				"to": 22790
+			},
+			"text": " videoda"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,790",
+				"to": "00:00:23,190"
+			},
+			"offsets": {
+				"from": 22790,
+				"to": 23190
+			},
+			"text": " kutu"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,190",
+				"to": "00:00:24,060"
+			},
+			"offsets": {
+				"from": 23190,
+				"to": 24060
+			},
+			"text": " açılımını"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,060",
+				"to": "00:00:24,780"
+			},
+			"offsets": {
+				"from": 24060,
+				"to": 24780
+			},
+			"text": " yaptım."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,780",
+				"to": "00:00:25,130"
+			},
+			"offsets": {
+				"from": 24780,
+				"to": 25130
+			},
+			"text": " Kutudan"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,130",
+				"to": "00:00:25,380"
+			},
+			"offsets": {
+				"from": 25130,
+				"to": 25380
+			},
+			"text": " neler"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,380",
+				"to": "00:00:26,150"
+			},
+			"offsets": {
+				"from": 25380,
+				"to": 26150
+			},
+			"text": " çıktığını"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,150",
+				"to": "00:00:26,510"
+			},
+			"offsets": {
+				"from": 26150,
+				"to": 26510
+			},
+			"text": " sizinle"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,510",
+				"to": "00:00:27,010"
+			},
+			"offsets": {
+				"from": 26510,
+				"to": 27010
+			},
+			"text": " paylaşmak"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,010",
+				"to": "00:00:27,700"
+			},
+			"offsets": {
+				"from": 27010,
+				"to": 27700
+			},
+			"text": " istiyorum."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,700",
+				"to": "00:00:28,120"
+			},
+			"offsets": {
+				"from": 27700,
+				"to": 28120
+			},
+			"text": " Videoya"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,120",
+				"to": "00:00:28,820"
+			},
+			"offsets": {
+				"from": 28120,
+				"to": 28820
+			},
+			"text": " geçelim."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,820",
+				"to": "00:00:28,820"
+			},
+			"offsets": {
+				"from": 28820,
+				"to": 28820
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,820",
+				"to": "00:00:29,670"
+			},
+			"offsets": {
+				"from": 28820,
+				"to": 29670
+			},
+			"text": " abone"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,670",
+				"to": "00:00:30,020"
+			},
+			"offsets": {
+				"from": 29670,
+				"to": 30020
+			},
+			"text": " ol"
+		}
+	]
+}

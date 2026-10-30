@@ -1,0 +1,2001 @@
+{
+	"systeminfo": "AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | METAL = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | SSSE3 = 0 | VSX = 0 | CUDA = 0 | COREML = 0 | OPENVINO = 0",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "whisper/whisper.cpp/ggml-large-v3-turbo.bin",
+		"language": "tr",
+		"translate": false
+	},
+	"result": {
+		"language": "tr"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,080"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 80
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,080",
+				"to": "00:00:00,510"
+			},
+			"offsets": {
+				"from": 80,
+				"to": 510
+			},
+			"text": " İlk"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,510",
+				"to": "00:00:00,710"
+			},
+			"offsets": {
+				"from": 510,
+				"to": 710
+			},
+			"text": " olarak"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,710",
+				"to": "00:00:01,260"
+			},
+			"offsets": {
+				"from": 710,
+				"to": 1260
+			},
+			"text": " Lidl'dan"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,260",
+				"to": "00:00:01,990"
+			},
+			"offsets": {
+				"from": 1260,
+				"to": 1990
+			},
+			"text": " aldığım"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,990",
+				"to": "00:00:02,120"
+			},
+			"offsets": {
+				"from": 1990,
+				"to": 2120
+			},
+			"text": " bu"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,120",
+				"to": "00:00:02,630"
+			},
+			"offsets": {
+				"from": 2120,
+				"to": 2630
+			},
+			"text": " bıçakla"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,630",
+				"to": "00:00:03,040"
+			},
+			"offsets": {
+				"from": 2630,
+				"to": 3040
+			},
+			"text": " açmaya"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,040",
+				"to": "00:00:03,800"
+			},
+			"offsets": {
+				"from": 3040,
+				"to": 3800
+			},
+			"text": " çalıştım."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,800",
+				"to": "00:00:04,170"
+			},
+			"offsets": {
+				"from": 3800,
+				"to": 4170
+			},
+			"text": " Sonra"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,170",
+				"to": "00:00:05,000"
+			},
+			"offsets": {
+				"from": 4170,
+				"to": 5000
+			},
+			"text": " karşıma"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,000",
+				"to": "00:00:05,210"
+			},
+			"offsets": {
+				"from": 5000,
+				"to": 5210
+			},
+			"text": " zaten"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,210",
+				"to": "00:00:05,730"
+			},
+			"offsets": {
+				"from": 5210,
+				"to": 5730
+			},
+			"text": " büyük"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,730",
+				"to": "00:00:05,950"
+			},
+			"offsets": {
+				"from": 5730,
+				"to": 5950
+			},
+			"text": " bir"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,950",
+				"to": "00:00:06,400"
+			},
+			"offsets": {
+				"from": 5950,
+				"to": 6400
+			},
+			"text": " poşet"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,400",
+				"to": "00:00:07,280"
+			},
+			"offsets": {
+				"from": 6400,
+				"to": 7280
+			},
+			"text": " çıktı."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,280",
+				"to": "00:00:07,800"
+			},
+			"offsets": {
+				"from": 7280,
+				"to": 7800
+			},
+			"text": " Poşetin"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,800",
+				"to": "00:00:08,270"
+			},
+			"offsets": {
+				"from": 7800,
+				"to": 8270
+			},
+			"text": " içinde"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,270",
+				"to": "00:00:08,530"
+			},
+			"offsets": {
+				"from": 8270,
+				"to": 8530
+			},
+			"text": " de"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,530",
+				"to": "00:00:08,910"
+			},
+			"offsets": {
+				"from": 8530,
+				"to": 8910
+			},
+			"text": " DJI'nın"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,910",
+				"to": "00:00:09,440"
+			},
+			"offsets": {
+				"from": 8910,
+				"to": 9440
+			},
+			"text": " verdiği"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,440",
+				"to": "00:00:09,700"
+			},
+			"offsets": {
+				"from": 9440,
+				"to": 9700
+			},
+			"text": " bize"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,700",
+				"to": "00:00:10,370"
+			},
+			"offsets": {
+				"from": 9700,
+				"to": 10370
+			},
+			"text": " gerçekten"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,370",
+				"to": "00:00:10,920"
+			},
+			"offsets": {
+				"from": 10370,
+				"to": 10920
+			},
+			"text": " kaliteli"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,920",
+				"to": "00:00:11,160"
+			},
+			"offsets": {
+				"from": 10920,
+				"to": 11160
+			},
+			"text": " olan"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,160",
+				"to": "00:00:11,360"
+			},
+			"offsets": {
+				"from": 11160,
+				"to": 11360
+			},
+			"text": " bir"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,360",
+				"to": "00:00:11,490"
+			},
+			"offsets": {
+				"from": 11360,
+				"to": 11490
+			},
+			"text": " el"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,490",
+				"to": "00:00:12,400"
+			},
+			"offsets": {
+				"from": 11490,
+				"to": 12400
+			},
+			"text": " çantası."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,400",
+				"to": "00:00:12,620"
+			},
+			"offsets": {
+				"from": 12400,
+				"to": 12620
+			},
+			"text": " Bu"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,620",
+				"to": "00:00:14,350"
+			},
+			"offsets": {
+				"from": 12620,
+				"to": 14350
+			},
+			"text": " gördüğünüz"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,350",
+				"to": "00:00:15,690"
+			},
+			"offsets": {
+				"from": 14350,
+				"to": 15690
+			},
+			"text": " mic'inizi"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,690",
+				"to": "00:00:16,280"
+			},
+			"offsets": {
+				"from": 15690,
+				"to": 16280
+			},
+			"text": " modifiye"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,280",
+				"to": "00:00:16,740"
+			},
+			"offsets": {
+				"from": 16280,
+				"to": 16740
+			},
+			"text": " eden"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,740",
+				"to": "00:00:18,640"
+			},
+			"offsets": {
+				"from": 16740,
+				"to": 18640
+			},
+			"text": " tırnaklardı."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,640",
+				"to": "00:00:19,270"
+			},
+			"offsets": {
+				"from": 18640,
+				"to": 19270
+			},
+			"text": " USB"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,270",
+				"to": "00:00:21,140"
+			},
+			"offsets": {
+				"from": 19270,
+				"to": 21140
+			},
+			"text": " Type-C."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,140",
+				"to": "00:00:22,310"
+			},
+			"offsets": {
+				"from": 22140,
+				"to": 22310
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,310",
+				"to": "00:00:22,320"
+			},
+			"offsets": {
+				"from": 22310,
+				"to": 22320
+			},
+			"text": " Ya"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,320",
+				"to": "00:00:22,940"
+			},
+			"offsets": {
+				"from": 22320,
+				"to": 22940
+			},
+			"text": " ayrıca"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,940",
+				"to": "00:00:23,670"
+			},
+			"offsets": {
+				"from": 22940,
+				"to": 23670
+			},
+			"text": " DJI'nın"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,670",
+				"to": "00:00:24,200"
+			},
+			"offsets": {
+				"from": 23670,
+				"to": 24200
+			},
+			"text": " bize"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,200",
+				"to": "00:00:24,750"
+			},
+			"offsets": {
+				"from": 24200,
+				"to": 24750
+			},
+			"text": " verdiği"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,750",
+				"to": "00:00:25,290"
+			},
+			"offsets": {
+				"from": 24750,
+				"to": 25290
+			},
+			"text": " kutu,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,290",
+				"to": "00:00:25,920"
+			},
+			"offsets": {
+				"from": 25290,
+				"to": 25920
+			},
+			"text": " içinde"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,920",
+				"to": "00:00:26,640"
+			},
+			"offsets": {
+				"from": 25920,
+				"to": 26640
+			},
+			"text": " mikrofon"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,640",
+				"to": "00:00:26,820"
+			},
+			"offsets": {
+				"from": 26640,
+				"to": 26820
+			},
+			"text": " ve"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,820",
+				"to": "00:00:28,350"
+			},
+			"offsets": {
+				"from": 26820,
+				"to": 28350
+			},
+			"text": " aparatlarınızı"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,350",
+				"to": "00:00:28,710"
+			},
+			"offsets": {
+				"from": 28350,
+				"to": 28710
+			},
+			"text": " bile"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,710",
+				"to": "00:00:30,240"
+			},
+			"offsets": {
+				"from": 28710,
+				"to": 30240
+			},
+			"text": " saklayacağınız"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,240",
+				"to": "00:00:30,510"
+			},
+			"offsets": {
+				"from": 30240,
+				"to": 30510
+			},
+			"text": " bir"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,510",
+				"to": "00:00:31,050"
+			},
+			"offsets": {
+				"from": 30510,
+				"to": 31050
+			},
+			"text": " cidden"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,050",
+				"to": "00:00:31,820"
+			},
+			"offsets": {
+				"from": 31050,
+				"to": 31820
+			},
+			"text": " kaliteli"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,820",
+				"to": "00:00:32,070"
+			},
+			"offsets": {
+				"from": 31820,
+				"to": 32070
+			},
+			"text": " bir"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,070",
+				"to": "00:00:32,720"
+			},
+			"offsets": {
+				"from": 32070,
+				"to": 32720
+			},
+			"text": " kutu."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,720",
+				"to": "00:00:33,410"
+			},
+			"offsets": {
+				"from": 32720,
+				"to": 33410
+			},
+			"text": " Burada"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,410",
+				"to": "00:00:34,220"
+			},
+			"offsets": {
+				"from": 33410,
+				"to": 34220
+			},
+			"text": " kameraya"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,220",
+				"to": "00:00:35,290"
+			},
+			"offsets": {
+				"from": 34220,
+				"to": 35290
+			},
+			"text": " bağlanacak"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,290",
+				"to": "00:00:36,610"
+			},
+			"offsets": {
+				"from": 35290,
+				"to": 36610
+			},
+			"text": " girişi"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,610",
+				"to": "00:00:37,600"
+			},
+			"offsets": {
+				"from": 36610,
+				"to": 37600
+			},
+			"text": " gösterdim."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,600",
+				"to": "00:00:38,070"
+			},
+			"offsets": {
+				"from": 37600,
+				"to": 38070
+			},
+			"text": " Burada"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,070",
+				"to": "00:00:38,380"
+			},
+			"offsets": {
+				"from": 38070,
+				"to": 38380
+			},
+			"text": " iki"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,380",
+				"to": "00:00:38,590"
+			},
+			"offsets": {
+				"from": 38380,
+				"to": 38590
+			},
+			"text": " tane"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,590",
+				"to": "00:00:38,960"
+			},
+			"offsets": {
+				"from": 38590,
+				"to": 38960
+			},
+			"text": " daha"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,960",
+				"to": "00:00:39,450"
+			},
+			"offsets": {
+				"from": 38960,
+				"to": 39450
+			},
+			"text": " tırnak"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,450",
+				"to": "00:00:39,950"
+			},
+			"offsets": {
+				"from": 39450,
+				"to": 39950
+			},
+			"text": " veriyor"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,950",
+				"to": "00:00:40,250"
+			},
+			"offsets": {
+				"from": 39950,
+				"to": 40250
+			},
+			"text": " bize"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,250",
+				"to": "00:00:40,630"
+			},
+			"offsets": {
+				"from": 40250,
+				"to": 40630
+			},
+			"text": " onlar"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,630",
+				"to": "00:00:41,230"
+			},
+			"offsets": {
+				"from": 40630,
+				"to": 41230
+			},
+			"text": " orijinal"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,230",
+				"to": "00:00:41,530"
+			},
+			"offsets": {
+				"from": 41230,
+				"to": 41530
+			},
+			"text": " olan"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,530",
+				"to": "00:00:42,300"
+			},
+			"offsets": {
+				"from": 41530,
+				"to": 42300
+			},
+			"text": " klasik."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,300",
+				"to": "00:00:42,720"
+			},
+			"offsets": {
+				"from": 42300,
+				"to": 42720
+			},
+			"text": " Burada"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,720",
+				"to": "00:00:43,100"
+			},
+			"offsets": {
+				"from": 42720,
+				"to": 43100
+			},
+			"text": " kamera"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,100",
+				"to": "00:00:44,160"
+			},
+			"offsets": {
+				"from": 43100,
+				"to": 44160
+			},
+			"text": " bağlantısını"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,160",
+				"to": "00:00:45,280"
+			},
+			"offsets": {
+				"from": 44160,
+				"to": 45280
+			},
+			"text": " gösteriyorum."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,280",
+				"to": "00:00:45,280"
+			},
+			"offsets": {
+				"from": 45280,
+				"to": 45280
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,280",
+				"to": "00:00:45,440"
+			},
+			"offsets": {
+				"from": 45280,
+				"to": 45440
+			},
+			"text": " Ve"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,440",
+				"to": "00:00:45,620"
+			},
+			"offsets": {
+				"from": 45440,
+				"to": 45620
+			},
+			"text": " bu"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,620",
+				"to": "00:00:46,140"
+			},
+			"offsets": {
+				"from": 45620,
+				"to": 46140
+			},
+			"text": " yakaya"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,140",
+				"to": "00:00:47,360"
+			},
+			"offsets": {
+				"from": 46140,
+				"to": 47360
+			},
+			"text": " taktığınız"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,360",
+				"to": "00:00:48,260"
+			},
+			"offsets": {
+				"from": 47360,
+				"to": 48260
+			},
+			"text": " tırnaklar"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,260",
+				"to": "00:00:48,910"
+			},
+			"offsets": {
+				"from": 48260,
+				"to": 48910
+			},
+			"text": " tamamen"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,910",
+				"to": "00:00:49,750"
+			},
+			"offsets": {
+				"from": 48910,
+				"to": 49750
+			},
+			"text": " mıknatıs"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,750",
+				"to": "00:00:49,860"
+			},
+			"offsets": {
+				"from": 49750,
+				"to": 49860
+			},
+			"text": " ve"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,860",
+				"to": "00:00:50,590"
+			},
+			"offsets": {
+				"from": 49860,
+				"to": 50590
+			},
+			"text": " aşırı"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,590",
+				"to": "00:00:51,250"
+			},
+			"offsets": {
+				"from": 50590,
+				"to": 51250
+			},
+			"text": " güçlü"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,250",
+				"to": "00:00:52,580"
+			},
+			"offsets": {
+				"from": 51250,
+				"to": 52580
+			},
+			"text": " mıknatıs."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,580",
+				"to": "00:00:53,360"
+			},
+			"offsets": {
+				"from": 52580,
+				"to": 53360
+			},
+			"text": " Arkadaşlar"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,360",
+				"to": "00:00:53,710"
+			},
+			"offsets": {
+				"from": 53360,
+				"to": 53710
+			},
+			"text": " ciddi"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,710",
+				"to": "00:00:54,130"
+			},
+			"offsets": {
+				"from": 53710,
+				"to": 54130
+			},
+			"text": " manada"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,130",
+				"to": "00:00:54,680"
+			},
+			"offsets": {
+				"from": 54130,
+				"to": 54680
+			},
+			"text": " aşırı"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,680",
+				"to": "00:00:55,540"
+			},
+			"offsets": {
+				"from": 54680,
+				"to": 55540
+			},
+			"text": " güçlü."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,540",
+				"to": "00:00:55,690"
+			},
+			"offsets": {
+				"from": 55540,
+				"to": 55690
+			},
+			"text": " Ben"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,690",
+				"to": "00:00:56,070"
+			},
+			"offsets": {
+				"from": 55690,
+				"to": 56070
+			},
+			"text": " ikisini"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,070",
+				"to": "00:00:57,010"
+			},
+			"offsets": {
+				"from": 56070,
+				"to": 57010
+			},
+			"text": " birleştirdiğimde"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,010",
+				"to": "00:00:57,900"
+			},
+			"offsets": {
+				"from": 57010,
+				"to": 57900
+			},
+			"text": " açamamıştım,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,900",
+				"to": "00:00:58,960"
+			},
+			"offsets": {
+				"from": 57900,
+				"to": 58960
+			},
+			"text": " zorlanmıştım."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,960",
+				"to": "00:01:00,460"
+			},
+			"offsets": {
+				"from": 58960,
+				"to": 60460
+			},
+			"text": " Neyse."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,460",
+				"to": "00:01:01,070"
+			},
+			"offsets": {
+				"from": 60460,
+				"to": 61070
+			},
+			"text": " Burada"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,070",
+				"to": "00:01:02,220"
+			},
+			"offsets": {
+				"from": 61070,
+				"to": 62220
+			},
+			"text": " telefonunuza"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,220",
+				"to": "00:01:03,590"
+			},
+			"offsets": {
+				"from": 62220,
+				"to": 63590
+			},
+			"text": " takacağınız"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,590",
+				"to": "00:01:04,340"
+			},
+			"offsets": {
+				"from": 63590,
+				"to": 64340
+			},
+			"text": " USB-C'yi"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,340",
+				"to": "00:01:05,720"
+			},
+			"offsets": {
+				"from": 64340,
+				"to": 65720
+			},
+			"text": " gösterdim."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,720",
+				"to": "00:01:06,220"
+			},
+			"offsets": {
+				"from": 65720,
+				"to": 66220
+			},
+			"text": " Burada"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,220",
+				"to": "00:01:06,700"
+			},
+			"offsets": {
+				"from": 66220,
+				"to": 66700
+			},
+			"text": " tekrar"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,700",
+				"to": "00:01:07,180"
+			},
+			"offsets": {
+				"from": 66700,
+				"to": 67180
+			},
+			"text": " kutuya"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,180",
+				"to": "00:01:08,780"
+			},
+			"offsets": {
+				"from": 67180,
+				"to": 68780
+			},
+			"text": " yerleştiriyorum."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,780",
+				"to": "00:01:09,220"
+			},
+			"offsets": {
+				"from": 68780,
+				"to": 69220
+			},
+			"text": " Kutuyu"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,220",
+				"to": "00:01:10,140"
+			},
+			"offsets": {
+				"from": 69220,
+				"to": 70140
+			},
+			"text": " gerçekten"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,140",
+				"to": "00:01:10,280"
+			},
+			"offsets": {
+				"from": 70140,
+				"to": 70280
+			},
+			"text": " çok"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,280",
+				"to": "00:01:11,000"
+			},
+			"offsets": {
+				"from": 70280,
+				"to": 71000
+			},
+			"text": " sevdim."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,000",
+				"to": "00:01:11,440"
+			},
+			"offsets": {
+				"from": 71000,
+				"to": 71440
+			},
+			"text": " Aşırı"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,440",
+				"to": "00:01:11,660"
+			},
+			"offsets": {
+				"from": 71440,
+				"to": 71660
+			},
+			"text": " şey"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,660",
+				"to": "00:01:12,490"
+			},
+			"offsets": {
+				"from": 71660,
+				"to": 72490
+			},
+			"text": " hissettiriyor,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,490",
+				"to": "00:01:12,940"
+			},
+			"offsets": {
+				"from": 72490,
+				"to": 72940
+			},
+			"text": " kaliteli"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,940",
+				"to": "00:01:13,900"
+			},
+			"offsets": {
+				"from": 72940,
+				"to": 73900
+			},
+			"text": " hissettiriyor."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,520",
+				"to": "00:01:14,520"
+			},
+			"offsets": {
+				"from": 74520,
+				"to": 74520
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,520",
+				"to": "00:01:15,040"
+			},
+			"offsets": {
+				"from": 74520,
+				"to": 75040
+			},
+			"text": " Galiba"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,040",
+				"to": "00:01:15,150"
+			},
+			"offsets": {
+				"from": 75040,
+				"to": 75150
+			},
+			"text": " ama"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,150",
+				"to": "00:01:15,990"
+			},
+			"offsets": {
+				"from": 75150,
+				"to": 75990
+			},
+			"text": " hissettiğim"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:15,990",
+				"to": "00:01:16,200"
+			},
+			"offsets": {
+				"from": 75990,
+				"to": 76200
+			},
+			"text": " bir"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,200",
+				"to": "00:01:16,700"
+			},
+			"offsets": {
+				"from": 76200,
+				"to": 76700
+			},
+			"text": " tarafı"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,700",
+				"to": "00:01:17,200"
+			},
+			"offsets": {
+				"from": 76700,
+				"to": 77200
+			},
+			"text": " metal,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,200",
+				"to": "00:01:17,410"
+			},
+			"offsets": {
+				"from": 77200,
+				"to": 77410
+			},
+			"text": " bir"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,410",
+				"to": "00:01:17,990"
+			},
+			"offsets": {
+				"from": 77410,
+				"to": 77990
+			},
+			"text": " tarafı"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,990",
+				"to": "00:01:18,400"
+			},
+			"offsets": {
+				"from": 77990,
+				"to": 78400
+			},
+			"text": " plastik"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,400",
+				"to": "00:01:18,720"
+			},
+			"offsets": {
+				"from": 78400,
+				"to": 78720
+			},
+			"text": " ama"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,720",
+				"to": "00:01:19,960"
+			},
+			"offsets": {
+				"from": 78720,
+				"to": 79960
+			},
+			"text": " plastikte"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,960",
+				"to": "00:01:20,690"
+			},
+			"offsets": {
+				"from": 79960,
+				"to": 80690
+			},
+			"text": " böyle"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,690",
+				"to": "00:01:21,310"
+			},
+			"offsets": {
+				"from": 80690,
+				"to": 81310
+			},
+			"text": " güzel"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,310",
+				"to": "00:01:22,030"
+			},
+			"offsets": {
+				"from": 81310,
+				"to": 82030
+			},
+			"text": " bir"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,030",
+				"to": "00:01:22,650"
+			},
+			"offsets": {
+				"from": 82030,
+				"to": 82650
+			},
+			"text": " hissiyat"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,650",
+				"to": "00:01:23,020"
+			},
+			"offsets": {
+				"from": 82650,
+				"to": 83020
+			},
+			"text": " var"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,020",
+				"to": "00:01:23,140"
+			},
+			"offsets": {
+				"from": 83020,
+				"to": 83140
+			},
+			"text": " o"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,140",
+				"to": "00:01:24,580"
+			},
+			"offsets": {
+				"from": 83140,
+				"to": 84580
+			},
+			"text": " şekilde."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,580",
+				"to": "00:01:25,060"
+			},
+			"offsets": {
+				"from": 84580,
+				"to": 85060
+			},
+			"text": " Yani"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,060",
+				"to": "00:01:25,930"
+			},
+			"offsets": {
+				"from": 85060,
+				"to": 85930
+			},
+			"text": " arkadaşlar"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,930",
+				"to": "00:01:26,250"
+			},
+			"offsets": {
+				"from": 85930,
+				"to": 86250
+			},
+			"text": " bu"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:26,250",
+				"to": "00:01:26,830"
+			},
+			"offsets": {
+				"from": 86250,
+				"to": 86830
+			},
+			"text": " şekilde"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:26,830",
+				"to": "00:01:27,100"
+			},
+			"offsets": {
+				"from": 86830,
+				"to": 87100
+			},
+			"text": " ben"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,100",
+				"to": "00:01:27,550"
+			},
+			"offsets": {
+				"from": 87100,
+				"to": 87550
+			},
+			"text": " video"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,550",
+				"to": "00:01:28,000"
+			},
+			"offsets": {
+				"from": 87550,
+				"to": 88000
+			},
+			"text": " almak"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,000",
+				"to": "00:01:28,940"
+			},
+			"offsets": {
+				"from": 88000,
+				"to": 88940
+			},
+			"text": " istedim."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,940",
+				"to": "00:01:29,480"
+			},
+			"offsets": {
+				"from": 88940,
+				"to": 89480
+			},
+			"text": " Sebebi"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,480",
+				"to": "00:01:30,220"
+			},
+			"offsets": {
+				"from": 89480,
+				"to": 90220
+			},
+			"text": " çünkü"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,220",
+				"to": "00:01:30,600"
+			},
+			"offsets": {
+				"from": 90220,
+				"to": 90600
+			},
+			"text": " ben"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,600",
+				"to": "00:01:30,670"
+			},
+			"offsets": {
+				"from": 90600,
+				"to": 90670
+			},
+			"text": " bu"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,670",
+				"to": "00:01:30,930"
+			},
+			"offsets": {
+				"from": 90670,
+				"to": 90930
+			},
+			"text": " Mig"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,930",
+				"to": "00:01:31,580"
+			},
+			"offsets": {
+				"from": 90930,
+				"to": 91580
+			},
+			"text": " Mini'yi"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:31,580",
+				"to": "00:01:32,220"
+			},
+			"offsets": {
+				"from": 91580,
+				"to": 92220
+			},
+			"text": " almadan"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,220",
+				"to": "00:01:32,790"
+			},
+			"offsets": {
+				"from": 92220,
+				"to": 92790
+			},
+			"text": " önce,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,790",
+				"to": "00:01:33,090"
+			},
+			"offsets": {
+				"from": 92790,
+				"to": 93090
+			},
+			"text": " yani"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,090",
+				"to": "00:01:33,430"
+			},
+			"offsets": {
+				"from": 93090,
+				"to": 93430
+			},
+			"text": " Mig"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,430",
+				"to": "00:01:33,910"
+			},
+			"offsets": {
+				"from": 93430,
+				"to": 93910
+			},
+			"text": " Mini"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,910",
+				"to": "00:01:34,330"
+			},
+			"offsets": {
+				"from": 93910,
+				"to": 94330
+			},
+			"text": " 2'yi"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,330",
+				"to": "00:01:35,380"
+			},
+			"offsets": {
+				"from": 94330,
+				"to": 95380
+			},
+			"text": " araştırma"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,380",
+				"to": "00:01:36,300"
+			},
+			"offsets": {
+				"from": 95380,
+				"to": 96300
+			},
+			"text": " yaptım."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,300",
+				"to": "00:01:36,810"
+			},
+			"offsets": {
+				"from": 96300,
+				"to": 96810
+			},
+			"text": " Youtube'da"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,810",
+				"to": "00:01:37,210"
+			},
+			"offsets": {
+				"from": 96810,
+				"to": 97210
+			},
+			"text": " videolar"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,210",
+				"to": "00:01:37,740"
+			},
+			"offsets": {
+				"from": 97210,
+				"to": 97740
+			},
+			"text": " izledim."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,740",
+				"to": "00:01:38,640"
+			},
+			"offsets": {
+				"from": 97740,
+				"to": 98640
+			},
+			"text": " Mikrofonların"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,640",
+				"to": "00:01:39,220"
+			},
+			"offsets": {
+				"from": 98640,
+				"to": 99220
+			},
+			"text": " seslerini"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,220",
+				"to": "00:01:39,960"
+			},
+			"offsets": {
+				"from": 99220,
+				"to": 99960
+			},
+			"text": " dinledim."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,960",
+				"to": "00:01:41,280"
+			},
+			"offsets": {
+				"from": 100960,
+				"to": 101280
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,280",
+				"to": "00:01:41,360"
+			},
+			"offsets": {
+				"from": 101280,
+				"to": 101360
+			},
+			"text": " Yani"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,360",
+				"to": "00:01:41,710"
+			},
+			"offsets": {
+				"from": 101360,
+				"to": 101710
+			},
+			"text": " neden"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,710",
+				"to": "00:01:42,210"
+			},
+			"offsets": {
+				"from": 101710,
+				"to": 102210
+			},
+			"text": " yarı"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,210",
+				"to": "00:01:42,730"
+			},
+			"offsets": {
+				"from": 102210,
+				"to": 102730
+			},
+			"text": " fiyatı"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,730",
+				"to": "00:01:43,820"
+			},
+			"offsets": {
+				"from": 102730,
+				"to": 103820
+			},
+			"text": " aşağısına"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,820",
+				"to": "00:01:44,240"
+			},
+			"offsets": {
+				"from": 103820,
+				"to": 104240
+			},
+			"text": " verip"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,240",
+				"to": "00:01:44,740"
+			},
+			"offsets": {
+				"from": 104240,
+				"to": 104740
+			},
+			"text": " hemen"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,740",
+				"to": "00:01:45,080"
+			},
+			"offsets": {
+				"from": 104740,
+				"to": 105080
+			},
+			"text": " hemen"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,080",
+				"to": "00:01:45,570"
+			},
+			"offsets": {
+				"from": 105080,
+				"to": 105570
+			},
+			"text": " aynı"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,570",
+				"to": "00:01:45,750"
+			},
+			"offsets": {
+				"from": 105570,
+				"to": 105750
+			},
+			"text": " ses"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,750",
+				"to": "00:01:46,590"
+			},
+			"offsets": {
+				"from": 105750,
+				"to": 106590
+			},
+			"text": " kalitesini"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,590",
+				"to": "00:01:47,430"
+			},
+			"offsets": {
+				"from": 106590,
+				"to": 107430
+			},
+			"text": " alacağım"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:47,430",
+				"to": "00:01:48,060"
+			},
+			"offsets": {
+				"from": 107430,
+				"to": 108060
+			},
+			"text": " cihazı"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,060",
+				"to": "00:01:48,460"
+			},
+			"offsets": {
+				"from": 108060,
+				"to": 108460
+			},
+			"text": " almam"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,460",
+				"to": "00:01:48,710"
+			},
+			"offsets": {
+				"from": 108460,
+				"to": 108710
+			},
+			"text": " ki"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,710",
+				"to": "00:01:51,660"
+			},
+			"offsets": {
+				"from": 108710,
+				"to": 111660
+			},
+			"text": " ve..."
+		}
+	]
+}

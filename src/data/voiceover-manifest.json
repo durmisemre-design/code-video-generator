@@ -1,0 +1,4271 @@
+{
+  "fps": 60,
+  "sampleRate": 48000,
+  "totalFrames": 7775,
+  "totalSec": 129.583,
+  "introEndFrame": 1348,
+  "introEndSec": 22.467,
+  "hookDurationSec": 5.2,
+  "hookDurationFrames": 312,
+  "hookTitle": {
+    "line1": "DJI Mic 3’e 2 Katı Verme!",
+    "line2": "109€ Mic Mini 2 Değer Mi?"
+  },
+  "voiceoverAudioFile": "audio/voiceover-master.wav",
+  "asmrAudioFile": "audio/asmr-cuts-master.wav",
+  "bgMusicFile": "audio/bg-music.wav",
+  "sfxFile": "audio/sfx-transitions.wav",
+  "segments": [
+    {
+      "index": 0,
+      "sourceId": "intro",
+      "mode": "intro_showcase",
+      "speakerVideo": "speaker/intro.mp4",
+      "srcStartFrame": 381,
+      "srcEndFrame": 1729,
+      "srcStartSec": 6.35,
+      "srcEndSec": 28.817,
+      "timelineFromFrame": 0,
+      "speechDurationFrames": 1348,
+      "pauseAfterFrames": 0,
+      "durationFrames": 1348,
+      "timelineStartSec": 0.0,
+      "timelineEndSec": 22.467,
+      "label": "intro_full_unbroken"
+    },
+    {
+      "index": 1,
+      "sourceId": "take2",
+      "mode": "unboxing_broll",
+      "speakerVideo": "speaker/take2.mp4",
+      "srcStartFrame": 12,
+      "srcEndFrame": 771,
+      "srcStartSec": 0.2,
+      "srcEndSec": 12.85,
+      "timelineFromFrame": 1348,
+      "speechDurationFrames": 759,
+      "pauseAfterFrames": 0,
+      "durationFrames": 759,
+      "timelineStartSec": 22.467,
+      "timelineEndSec": 35.117,
+      "label": "block1_knife_bag_pouch_unbroken"
+    },
+    {
+      "index": 2,
+      "sourceId": "take1",
+      "mode": "unboxing_broll",
+      "speakerVideo": "speaker/take1.mp4",
+      "srcStartFrame": 894,
+      "srcEndFrame": 1201,
+      "srcStartSec": 14.9,
+      "srcEndSec": 20.017,
+      "timelineFromFrame": 2107,
+      "speechDurationFrames": 307,
+      "pauseAfterFrames": 0,
+      "durationFrames": 307,
+      "timelineStartSec": 35.117,
+      "timelineEndSec": 40.233,
+      "label": "block2_colorful_modifier_clips_unbroken"
+    },
+    {
+      "index": 3,
+      "sourceId": "take2",
+      "mode": "unboxing_broll",
+      "speakerVideo": "speaker/take2.mp4",
+      "srcStartFrame": 1386,
+      "srcEndFrame": 3567,
+      "srcStartSec": 23.1,
+      "srcEndSec": 59.45,
+      "timelineFromFrame": 2414,
+      "speechDurationFrames": 2181,
+      "pauseAfterFrames": 0,
+      "durationFrames": 2181,
+      "timelineStartSec": 40.233,
+      "timelineEndSec": 76.583,
+      "label": "block3_case_camera_clips_cable_magnets_unbroken"
+    },
+    {
+      "index": 4,
+      "sourceId": "take2",
+      "mode": "unboxing_broll",
+      "speakerVideo": "speaker/take2.mp4",
+      "srcStartFrame": 3681,
+      "srcEndFrame": 4455,
+      "srcStartSec": 61.35,
+      "srcEndSec": 74.25,
+      "timelineFromFrame": 4595,
+      "speechDurationFrames": 774,
+      "pauseAfterFrames": 0,
+      "durationFrames": 774,
+      "timelineStartSec": 76.583,
+      "timelineEndSec": 89.483,
+      "label": "block4_usbc_place_in_case_unbroken"
+    },
+    {
+      "index": 5,
+      "sourceId": "take1",
+      "mode": "unboxing_broll",
+      "speakerVideo": "speaker/take1.mp4",
+      "srcStartFrame": 1617,
+      "srcEndFrame": 2094,
+      "srcStartSec": 26.95,
+      "srcEndSec": 34.9,
+      "timelineFromFrame": 5369,
+      "speechDurationFrames": 477,
+      "pauseAfterFrames": 0,
+      "durationFrames": 477,
+      "timelineStartSec": 89.483,
+      "timelineEndSec": 97.433,
+      "label": "block5_metal_plastic_charging_unbroken"
+    },
+    {
+      "index": 6,
+      "sourceId": "take1",
+      "mode": "unboxing_broll",
+      "speakerVideo": "speaker/take1.mp4",
+      "srcStartFrame": 3600,
+      "srcEndFrame": 5259,
+      "srcStartSec": 60.0,
+      "srcEndSec": 87.65,
+      "timelineFromFrame": 5846,
+      "speechDurationFrames": 1659,
+      "pauseAfterFrames": 0,
+      "durationFrames": 1659,
+      "timelineStartSec": 97.433,
+      "timelineEndSec": 125.083,
+      "label": "block6_overall_quality_price_happy_unbroken"
+    },
+    {
+      "index": 7,
+      "sourceId": "take1",
+      "mode": "unboxing_broll",
+      "speakerVideo": "speaker/take1.mp4",
+      "srcStartFrame": 5358,
+      "srcEndFrame": 5628,
+      "srcStartSec": 89.3,
+      "srcEndSec": 93.8,
+      "timelineFromFrame": 7505,
+      "speechDurationFrames": 270,
+      "pauseAfterFrames": 0,
+      "durationFrames": 270,
+      "timelineStartSec": 125.083,
+      "timelineEndSec": 129.583,
+      "label": "block7_final_recommendation_unbroken"
+    }
+  ],
+  "duckingRegions": [
+    {
+      "fromFrame": 1363,
+      "toFrame": 2087,
+      "duckDb": -12.0,
+      "attackMs": 50,
+      "releaseMs": 140
+    },
+    {
+      "fromFrame": 2121,
+      "toFrame": 2665,
+      "duckDb": -12.0,
+      "attackMs": 50,
+      "releaseMs": 140
+    },
+    {
+      "fromFrame": 2681,
+      "toFrame": 2840,
+      "duckDb": -12.0,
+      "attackMs": 50,
+      "releaseMs": 140
+    },
+    {
+      "fromFrame": 2869,
+      "toFrame": 2907,
+      "duckDb": -12.0,
+      "attackMs": 50,
+      "releaseMs": 140
+    },
+    {
+      "fromFrame": 2929,
+      "toFrame": 2997,
+      "duckDb": -12.0,
+      "attackMs": 50,
+      "releaseMs": 140
+    },
+    {
+      "fromFrame": 3018,
+      "toFrame": 3154,
+      "duckDb": -12.0,
+      "attackMs": 50,
+      "releaseMs": 140
+    },
+    {
+      "fromFrame": 3166,
+      "toFrame": 3197,
+      "duckDb": -12.0,
+      "attackMs": 50,
+      "releaseMs": 140
+    },
+    {
+      "fromFrame": 3221,
+      "toFrame": 3577,
+      "duckDb": -12.0,
+      "attackMs": 50,
+      "releaseMs": 140
+    },
+    {
+      "fromFrame": 3605,
+      "toFrame": 4083,
+      "duckDb": -12.0,
+      "attackMs": 50,
+      "releaseMs": 140
+    },
+    {
+      "fromFrame": 4098,
+      "toFrame": 4573,
+      "duckDb": -12.0,
+      "attackMs": 50,
+      "releaseMs": 140
+    },
+    {
+      "fromFrame": 4618,
+      "toFrame": 4877,
+      "duckDb": -12.0,
+      "attackMs": 50,
+      "releaseMs": 140
+    },
+    {
+      "fromFrame": 4906,
+      "toFrame": 5354,
+      "duckDb": -12.0,
+      "attackMs": 50,
+      "releaseMs": 140
+    },
+    {
+      "fromFrame": 5382,
+      "toFrame": 6729,
+      "duckDb": -12.0,
+      "attackMs": 50,
+      "releaseMs": 140
+    },
+    {
+      "fromFrame": 6753,
+      "toFrame": 7088,
+      "duckDb": -12.0,
+      "attackMs": 50,
+      "releaseMs": 140
+    },
+    {
+      "fromFrame": 7114,
+      "toFrame": 7497,
+      "duckDb": -12.0,
+      "attackMs": 50,
+      "releaseMs": 140
+    },
+    {
+      "fromFrame": 7515,
+      "toFrame": 7754,
+      "duckDb": -12.0,
+      "attackMs": 50,
+      "releaseMs": 140
+    }
+  ],
+  "captions": [
+    {
+      "index": 0,
+      "text": "Şu an elimde gördüğünüz",
+      "fromFrame": 312,
+      "toFrame": 413,
+      "startSec": 5.2,
+      "endSec": 6.883,
+      "wordCount": 4,
+      "words": [
+        {
+          "word": "Şu",
+          "startFrame": 312,
+          "endFrame": 318,
+          "emphasis": false
+        },
+        {
+          "word": "an",
+          "startFrame": 314,
+          "endFrame": 328,
+          "emphasis": false
+        },
+        {
+          "word": "elimde",
+          "startFrame": 328,
+          "endFrame": 358,
+          "emphasis": false
+        },
+        {
+          "word": "gördüğünüz",
+          "startFrame": 358,
+          "endFrame": 413,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "text": "bu cihaz DJI serisinin",
+      "fromFrame": 413,
+      "toFrame": 519,
+      "startSec": 6.883,
+      "endSec": 8.65,
+      "wordCount": 4,
+      "words": [
+        {
+          "word": "bu",
+          "startFrame": 413,
+          "endFrame": 422,
+          "emphasis": false
+        },
+        {
+          "word": "cihaz",
+          "startFrame": 422,
+          "endFrame": 445,
+          "emphasis": false
+        },
+        {
+          "word": "DJI",
+          "startFrame": 445,
+          "endFrame": 477,
+          "emphasis": true
+        },
+        {
+          "word": "serisinin",
+          "startFrame": 477,
+          "endFrame": 519,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "text": "Mini 2'si ve DJI",
+      "fromFrame": 519,
+      "toFrame": 614,
+      "startSec": 8.65,
+      "endSec": 10.233,
+      "wordCount": 4,
+      "words": [
+        {
+          "word": "Mini",
+          "startFrame": 519,
+          "endFrame": 544,
+          "emphasis": true
+        },
+        {
+          "word": "2'si",
+          "startFrame": 544,
+          "endFrame": 584,
+          "emphasis": true
+        },
+        {
+          "word": "ve",
+          "startFrame": 584,
+          "endFrame": 602,
+          "emphasis": false
+        },
+        {
+          "word": "DJI",
+          "startFrame": 602,
+          "endFrame": 614,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "text": "3'e göre yarı fiyatına.",
+      "fromFrame": 614,
+      "toFrame": 764,
+      "startSec": 10.233,
+      "endSec": 12.733,
+      "wordCount": 4,
+      "words": [
+        {
+          "word": "3'e",
+          "startFrame": 614,
+          "endFrame": 644,
+          "emphasis": true
+        },
+        {
+          "word": "göre",
+          "startFrame": 644,
+          "endFrame": 676,
+          "emphasis": false
+        },
+        {
+          "word": "yarı",
+          "startFrame": 676,
+          "endFrame": 705,
+          "emphasis": true
+        },
+        {
+          "word": "fiyatına.",
+          "startFrame": 705,
+          "endFrame": 764,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "text": "Finlandiya'da yaklaşık",
+      "fromFrame": 764,
+      "toFrame": 860,
+      "startSec": 12.733,
+      "endSec": 14.333,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "Finlandiya'da",
+          "startFrame": 764,
+          "endFrame": 818,
+          "emphasis": false
+        },
+        {
+          "word": "yaklaşık",
+          "startFrame": 818,
+          "endFrame": 860,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "text": "109 Euro'ya aldım ve",
+      "fromFrame": 860,
+      "toFrame": 956,
+      "startSec": 14.333,
+      "endSec": 15.933,
+      "wordCount": 4,
+      "words": [
+        {
+          "word": "109",
+          "startFrame": 860,
+          "endFrame": 898,
+          "emphasis": true
+        },
+        {
+          "word": "Euro'ya",
+          "startFrame": 898,
+          "endFrame": 923,
+          "emphasis": true
+        },
+        {
+          "word": "aldım",
+          "startFrame": 923,
+          "endFrame": 949,
+          "emphasis": false
+        },
+        {
+          "word": "ve",
+          "startFrame": 949,
+          "endFrame": 956,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "text": "videoda kutu açılımını",
+      "fromFrame": 956,
+      "toFrame": 1063,
+      "startSec": 15.933,
+      "endSec": 17.717,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "videoda",
+          "startFrame": 956,
+          "endFrame": 986,
+          "emphasis": false
+        },
+        {
+          "word": "kutu",
+          "startFrame": 986,
+          "endFrame": 1010,
+          "emphasis": true
+        },
+        {
+          "word": "açılımını",
+          "startFrame": 1010,
+          "endFrame": 1063,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "text": "yaptım. Kutudan neler",
+      "fromFrame": 1063,
+      "toFrame": 1142,
+      "startSec": 17.717,
+      "endSec": 19.033,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "yaptım.",
+          "startFrame": 1063,
+          "endFrame": 1106,
+          "emphasis": false
+        },
+        {
+          "word": "Kutudan",
+          "startFrame": 1106,
+          "endFrame": 1127,
+          "emphasis": false
+        },
+        {
+          "word": "neler",
+          "startFrame": 1127,
+          "endFrame": 1142,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "text": "çıktığını sizinle",
+      "fromFrame": 1142,
+      "toFrame": 1210,
+      "startSec": 19.033,
+      "endSec": 20.167,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "çıktığını",
+          "startFrame": 1142,
+          "endFrame": 1188,
+          "emphasis": false
+        },
+        {
+          "word": "sizinle",
+          "startFrame": 1188,
+          "endFrame": 1210,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "text": "paylaşmak istiyorum.",
+      "fromFrame": 1210,
+      "toFrame": 1281,
+      "startSec": 20.167,
+      "endSec": 21.35,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "paylaşmak",
+          "startFrame": 1210,
+          "endFrame": 1240,
+          "emphasis": false
+        },
+        {
+          "word": "istiyorum.",
+          "startFrame": 1240,
+          "endFrame": 1281,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "text": "Videoya geçelim.",
+      "fromFrame": 1281,
+      "toFrame": 1348,
+      "startSec": 21.35,
+      "endSec": 22.467,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "Videoya",
+          "startFrame": 1281,
+          "endFrame": 1306,
+          "emphasis": true
+        },
+        {
+          "word": "geçelim.",
+          "startFrame": 1306,
+          "endFrame": 1348,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "text": "İlk olarak Lidl'dan",
+      "fromFrame": 1348,
+      "toFrame": 1412,
+      "startSec": 22.467,
+      "endSec": 23.533,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "İlk",
+          "startFrame": 1348,
+          "endFrame": 1367,
+          "emphasis": false
+        },
+        {
+          "word": "olarak",
+          "startFrame": 1367,
+          "endFrame": 1379,
+          "emphasis": false
+        },
+        {
+          "word": "Lidl'dan",
+          "startFrame": 1379,
+          "endFrame": 1412,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "text": "aldığım bu bıçakla",
+      "fromFrame": 1412,
+      "toFrame": 1494,
+      "startSec": 23.533,
+      "endSec": 24.9,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "aldığım",
+          "startFrame": 1412,
+          "endFrame": 1455,
+          "emphasis": false
+        },
+        {
+          "word": "bu",
+          "startFrame": 1455,
+          "endFrame": 1463,
+          "emphasis": false
+        },
+        {
+          "word": "bıçakla",
+          "startFrame": 1463,
+          "endFrame": 1494,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "text": "açmaya çalıştım.",
+      "fromFrame": 1494,
+      "toFrame": 1564,
+      "startSec": 24.9,
+      "endSec": 26.067,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "açmaya",
+          "startFrame": 1494,
+          "endFrame": 1518,
+          "emphasis": false
+        },
+        {
+          "word": "çalıştım.",
+          "startFrame": 1518,
+          "endFrame": 1564,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "text": "Sonra karşıma zaten",
+      "fromFrame": 1564,
+      "toFrame": 1649,
+      "startSec": 26.067,
+      "endSec": 27.483,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "Sonra",
+          "startFrame": 1564,
+          "endFrame": 1586,
+          "emphasis": false
+        },
+        {
+          "word": "karşıma",
+          "startFrame": 1586,
+          "endFrame": 1636,
+          "emphasis": false
+        },
+        {
+          "word": "zaten",
+          "startFrame": 1636,
+          "endFrame": 1649,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "text": "büyük bir poşet çıktı.",
+      "fromFrame": 1649,
+      "toFrame": 1773,
+      "startSec": 27.483,
+      "endSec": 29.55,
+      "wordCount": 4,
+      "words": [
+        {
+          "word": "büyük",
+          "startFrame": 1649,
+          "endFrame": 1680,
+          "emphasis": true
+        },
+        {
+          "word": "bir",
+          "startFrame": 1680,
+          "endFrame": 1693,
+          "emphasis": false
+        },
+        {
+          "word": "poşet",
+          "startFrame": 1693,
+          "endFrame": 1720,
+          "emphasis": true
+        },
+        {
+          "word": "çıktı.",
+          "startFrame": 1720,
+          "endFrame": 1773,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "text": "Poşetin içinde de",
+      "fromFrame": 1773,
+      "toFrame": 1848,
+      "startSec": 29.55,
+      "endSec": 30.8,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "Poşetin",
+          "startFrame": 1773,
+          "endFrame": 1804,
+          "emphasis": false
+        },
+        {
+          "word": "içinde",
+          "startFrame": 1804,
+          "endFrame": 1832,
+          "emphasis": false
+        },
+        {
+          "word": "de",
+          "startFrame": 1832,
+          "endFrame": 1848,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "text": "DJI'nın verdiği bize",
+      "fromFrame": 1848,
+      "toFrame": 1918,
+      "startSec": 30.8,
+      "endSec": 31.967,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "DJI'nın",
+          "startFrame": 1848,
+          "endFrame": 1871,
+          "emphasis": true
+        },
+        {
+          "word": "verdiği",
+          "startFrame": 1871,
+          "endFrame": 1902,
+          "emphasis": false
+        },
+        {
+          "word": "bize",
+          "startFrame": 1902,
+          "endFrame": 1918,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "text": "gerçekten kaliteli olan",
+      "fromFrame": 1918,
+      "toFrame": 2006,
+      "startSec": 31.967,
+      "endSec": 33.433,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "gerçekten",
+          "startFrame": 1918,
+          "endFrame": 1958,
+          "emphasis": false
+        },
+        {
+          "word": "kaliteli",
+          "startFrame": 1958,
+          "endFrame": 1991,
+          "emphasis": true
+        },
+        {
+          "word": "olan",
+          "startFrame": 1991,
+          "endFrame": 2006,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "text": "bir el çantası.",
+      "fromFrame": 2006,
+      "toFrame": 2080,
+      "startSec": 33.433,
+      "endSec": 34.667,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "bir",
+          "startFrame": 2006,
+          "endFrame": 2018,
+          "emphasis": false
+        },
+        {
+          "word": "el",
+          "startFrame": 2018,
+          "endFrame": 2025,
+          "emphasis": true
+        },
+        {
+          "word": "çantası.",
+          "startFrame": 2025,
+          "endFrame": 2080,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "text": "hemen modifiye",
+      "fromFrame": 2107,
+      "toFrame": 2149,
+      "startSec": 35.117,
+      "endSec": 35.817,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "hemen",
+          "startFrame": 2107,
+          "endFrame": 2124,
+          "emphasis": false
+        },
+        {
+          "word": "modifiye",
+          "startFrame": 2124,
+          "endFrame": 2149,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "text": "tırnakları çıkıyor",
+      "fromFrame": 2149,
+      "toFrame": 2230,
+      "startSec": 35.817,
+      "endSec": 37.167,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "tırnakları",
+          "startFrame": 2149,
+          "endFrame": 2193,
+          "emphasis": false
+        },
+        {
+          "word": "çıkıyor",
+          "startFrame": 2193,
+          "endFrame": 2230,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "text": "rengarenk mikrofonunuza",
+      "fromFrame": 2230,
+      "toFrame": 2310,
+      "startSec": 37.167,
+      "endSec": 38.5,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "rengarenk",
+          "startFrame": 2230,
+          "endFrame": 2265,
+          "emphasis": true
+        },
+        {
+          "word": "mikrofonunuza",
+          "startFrame": 2265,
+          "endFrame": 2310,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "text": "takabiliyorsunuz",
+      "fromFrame": 2340,
+      "toFrame": 2379,
+      "startSec": 39.0,
+      "endSec": 39.65,
+      "wordCount": 1,
+      "words": [
+        {
+          "word": "takabiliyorsunuz",
+          "startFrame": 2340,
+          "endFrame": 2379,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "text": "değiştirebiliyorsun",
+      "fromFrame": 2379,
+      "toFrame": 2414,
+      "startSec": 39.65,
+      "endSec": 40.233,
+      "wordCount": 1,
+      "words": [
+        {
+          "word": "değiştirebiliyorsun",
+          "startFrame": 2379,
+          "endFrame": 2414,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "text": "DJI'nın bize verdiği",
+      "fromFrame": 2414,
+      "toFrame": 2513,
+      "startSec": 40.233,
+      "endSec": 41.883,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "DJI'nın",
+          "startFrame": 2414,
+          "endFrame": 2448,
+          "emphasis": true
+        },
+        {
+          "word": "bize",
+          "startFrame": 2448,
+          "endFrame": 2480,
+          "emphasis": false
+        },
+        {
+          "word": "verdiği",
+          "startFrame": 2480,
+          "endFrame": 2513,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "text": "kutu, içinde mikrofon ve",
+      "fromFrame": 2513,
+      "toFrame": 2637,
+      "startSec": 41.883,
+      "endSec": 43.95,
+      "wordCount": 4,
+      "words": [
+        {
+          "word": "kutu,",
+          "startFrame": 2513,
+          "endFrame": 2545,
+          "emphasis": true
+        },
+        {
+          "word": "içinde",
+          "startFrame": 2545,
+          "endFrame": 2583,
+          "emphasis": false
+        },
+        {
+          "word": "mikrofon",
+          "startFrame": 2583,
+          "endFrame": 2626,
+          "emphasis": true
+        },
+        {
+          "word": "ve",
+          "startFrame": 2626,
+          "endFrame": 2637,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "text": "aparatlarınızı bile",
+      "fromFrame": 2690,
+      "toFrame": 2751,
+      "startSec": 44.833,
+      "endSec": 45.85,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "aparatlarınızı",
+          "startFrame": 2690,
+          "endFrame": 2729,
+          "emphasis": true
+        },
+        {
+          "word": "bile",
+          "startFrame": 2729,
+          "endFrame": 2751,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "text": "saklayacağınız bir",
+      "fromFrame": 2803,
+      "toFrame": 2859,
+      "startSec": 46.717,
+      "endSec": 47.65,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "saklayacağınız",
+          "startFrame": 2803,
+          "endFrame": 2842,
+          "emphasis": false
+        },
+        {
+          "word": "bir",
+          "startFrame": 2842,
+          "endFrame": 2859,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "text": "cidden kaliteli bir",
+      "fromFrame": 2859,
+      "toFrame": 2952,
+      "startSec": 47.65,
+      "endSec": 49.2,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "cidden",
+          "startFrame": 2859,
+          "endFrame": 2891,
+          "emphasis": true
+        },
+        {
+          "word": "kaliteli",
+          "startFrame": 2891,
+          "endFrame": 2937,
+          "emphasis": true
+        },
+        {
+          "word": "bir",
+          "startFrame": 2937,
+          "endFrame": 2952,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "text": "kutu. Burada kameraya",
+      "fromFrame": 2952,
+      "toFrame": 3081,
+      "startSec": 49.2,
+      "endSec": 51.35,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "kutu.",
+          "startFrame": 2952,
+          "endFrame": 2991,
+          "emphasis": true
+        },
+        {
+          "word": "Burada",
+          "startFrame": 2991,
+          "endFrame": 3033,
+          "emphasis": false
+        },
+        {
+          "word": "kameraya",
+          "startFrame": 3033,
+          "endFrame": 3081,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "text": "bağlanacak",
+      "fromFrame": 3081,
+      "toFrame": 3145,
+      "startSec": 51.35,
+      "endSec": 52.417,
+      "wordCount": 1,
+      "words": [
+        {
+          "word": "bağlanacak",
+          "startFrame": 3081,
+          "endFrame": 3145,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "text": "girişi gösterdim.",
+      "fromFrame": 3186,
+      "toFrame": 3284,
+      "startSec": 53.1,
+      "endSec": 54.733,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "girişi",
+          "startFrame": 3186,
+          "endFrame": 3225,
+          "emphasis": false
+        },
+        {
+          "word": "gösterdim.",
+          "startFrame": 3225,
+          "endFrame": 3284,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "text": "Burada iki tane daha",
+      "fromFrame": 3284,
+      "toFrame": 3366,
+      "startSec": 54.733,
+      "endSec": 56.1,
+      "wordCount": 4,
+      "words": [
+        {
+          "word": "Burada",
+          "startFrame": 3284,
+          "endFrame": 3312,
+          "emphasis": false
+        },
+        {
+          "word": "iki",
+          "startFrame": 3312,
+          "endFrame": 3331,
+          "emphasis": true
+        },
+        {
+          "word": "tane",
+          "startFrame": 3331,
+          "endFrame": 3343,
+          "emphasis": false
+        },
+        {
+          "word": "daha",
+          "startFrame": 3343,
+          "endFrame": 3366,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "text": "tırnak veriyor bize",
+      "fromFrame": 3366,
+      "toFrame": 3443,
+      "startSec": 56.1,
+      "endSec": 57.383,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "tırnak",
+          "startFrame": 3366,
+          "endFrame": 3395,
+          "emphasis": false
+        },
+        {
+          "word": "veriyor",
+          "startFrame": 3395,
+          "endFrame": 3425,
+          "emphasis": false
+        },
+        {
+          "word": "bize",
+          "startFrame": 3425,
+          "endFrame": 3443,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "text": "onlar orijinal olan",
+      "fromFrame": 3443,
+      "toFrame": 3520,
+      "startSec": 57.383,
+      "endSec": 58.667,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "onlar",
+          "startFrame": 3443,
+          "endFrame": 3466,
+          "emphasis": false
+        },
+        {
+          "word": "orijinal",
+          "startFrame": 3466,
+          "endFrame": 3502,
+          "emphasis": true
+        },
+        {
+          "word": "olan",
+          "startFrame": 3502,
+          "endFrame": 3520,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "text": "klasik. Burada kamera",
+      "fromFrame": 3520,
+      "toFrame": 3614,
+      "startSec": 58.667,
+      "endSec": 60.233,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "klasik.",
+          "startFrame": 3520,
+          "endFrame": 3566,
+          "emphasis": true
+        },
+        {
+          "word": "Burada",
+          "startFrame": 3566,
+          "endFrame": 3591,
+          "emphasis": false
+        },
+        {
+          "word": "kamera",
+          "startFrame": 3591,
+          "endFrame": 3614,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "text": "bağlantısını",
+      "fromFrame": 3614,
+      "toFrame": 3678,
+      "startSec": 60.233,
+      "endSec": 61.3,
+      "wordCount": 1,
+      "words": [
+        {
+          "word": "bağlantısını",
+          "startFrame": 3614,
+          "endFrame": 3678,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "text": "gösteriyorum. Ve bu",
+      "fromFrame": 3706,
+      "toFrame": 3765,
+      "startSec": 61.767,
+      "endSec": 62.75,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "gösteriyorum.",
+          "startFrame": 3706,
+          "endFrame": 3745,
+          "emphasis": false
+        },
+        {
+          "word": "Ve",
+          "startFrame": 3745,
+          "endFrame": 3754,
+          "emphasis": false
+        },
+        {
+          "word": "bu",
+          "startFrame": 3754,
+          "endFrame": 3765,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "text": "yakaya",
+      "fromFrame": 3765,
+      "toFrame": 3796,
+      "startSec": 62.75,
+      "endSec": 63.267,
+      "wordCount": 1,
+      "words": [
+        {
+          "word": "yakaya",
+          "startFrame": 3765,
+          "endFrame": 3796,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "text": "taktığınız tırnaklar",
+      "fromFrame": 3831,
+      "toFrame": 3924,
+      "startSec": 63.85,
+      "endSec": 65.4,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "taktığınız",
+          "startFrame": 3831,
+          "endFrame": 3870,
+          "emphasis": false
+        },
+        {
+          "word": "tırnaklar",
+          "startFrame": 3870,
+          "endFrame": 3924,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "text": "tamamen mıknatıs ve",
+      "fromFrame": 3924,
+      "toFrame": 4020,
+      "startSec": 65.4,
+      "endSec": 67.0,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "tamamen",
+          "startFrame": 3924,
+          "endFrame": 3963,
+          "emphasis": false
+        },
+        {
+          "word": "mıknatıs",
+          "startFrame": 3963,
+          "endFrame": 4013,
+          "emphasis": true
+        },
+        {
+          "word": "ve",
+          "startFrame": 4013,
+          "endFrame": 4020,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "text": "aşırı güçlü",
+      "fromFrame": 4020,
+      "toFrame": 4103,
+      "startSec": 67.0,
+      "endSec": 68.383,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "aşırı",
+          "startFrame": 4020,
+          "endFrame": 4063,
+          "emphasis": true
+        },
+        {
+          "word": "güçlü",
+          "startFrame": 4063,
+          "endFrame": 4103,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "text": "mıknatıs. Arkadaşlar",
+      "fromFrame": 4144,
+      "toFrame": 4230,
+      "startSec": 69.067,
+      "endSec": 70.5,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "mıknatıs.",
+          "startFrame": 4144,
+          "endFrame": 4183,
+          "emphasis": true
+        },
+        {
+          "word": "Arkadaşlar",
+          "startFrame": 4183,
+          "endFrame": 4230,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "text": "ciddi manada aşırı",
+      "fromFrame": 4230,
+      "toFrame": 4309,
+      "startSec": 70.5,
+      "endSec": 71.817,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "ciddi",
+          "startFrame": 4230,
+          "endFrame": 4251,
+          "emphasis": false
+        },
+        {
+          "word": "manada",
+          "startFrame": 4251,
+          "endFrame": 4276,
+          "emphasis": false
+        },
+        {
+          "word": "aşırı",
+          "startFrame": 4276,
+          "endFrame": 4309,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "text": "güçlü. Ben ikisini",
+      "fromFrame": 4309,
+      "toFrame": 4392,
+      "startSec": 71.817,
+      "endSec": 73.2,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "güçlü.",
+          "startFrame": 4309,
+          "endFrame": 4360,
+          "emphasis": true
+        },
+        {
+          "word": "Ben",
+          "startFrame": 4360,
+          "endFrame": 4369,
+          "emphasis": false
+        },
+        {
+          "word": "ikisini",
+          "startFrame": 4369,
+          "endFrame": 4392,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "text": "birleştirdiğimde",
+      "fromFrame": 4392,
+      "toFrame": 4449,
+      "startSec": 73.2,
+      "endSec": 74.15,
+      "wordCount": 1,
+      "words": [
+        {
+          "word": "birleştirdiğimde",
+          "startFrame": 4392,
+          "endFrame": 4449,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "text": "açamamıştım,",
+      "fromFrame": 4449,
+      "toFrame": 4502,
+      "startSec": 74.15,
+      "endSec": 75.033,
+      "wordCount": 1,
+      "words": [
+        {
+          "word": "açamamıştım,",
+          "startFrame": 4449,
+          "endFrame": 4502,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "text": "zorlanmıştım.",
+      "fromFrame": 4502,
+      "toFrame": 4566,
+      "startSec": 75.033,
+      "endSec": 76.1,
+      "wordCount": 1,
+      "words": [
+        {
+          "word": "zorlanmıştım.",
+          "startFrame": 4502,
+          "endFrame": 4566,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "text": "telefonunuza Burada",
+      "fromFrame": 4595,
+      "toFrame": 4605,
+      "startSec": 76.583,
+      "endSec": 76.75,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "telefonunuza",
+          "startFrame": 4595,
+          "endFrame": 4647,
+          "emphasis": false
+        },
+        {
+          "word": "Burada",
+          "startFrame": 4597,
+          "endFrame": 4603,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "text": "takacağınız USB-C'yi",
+      "fromFrame": 4690,
+      "toFrame": 4774,
+      "startSec": 78.167,
+      "endSec": 79.567,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "takacağınız",
+          "startFrame": 4690,
+          "endFrame": 4729,
+          "emphasis": false
+        },
+        {
+          "word": "USB-C'yi",
+          "startFrame": 4729,
+          "endFrame": 4774,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "text": "gösterdim. Burada tekrar",
+      "fromFrame": 4818,
+      "toFrame": 4916,
+      "startSec": 80.3,
+      "endSec": 81.933,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "gösterdim.",
+          "startFrame": 4818,
+          "endFrame": 4857,
+          "emphasis": false
+        },
+        {
+          "word": "Burada",
+          "startFrame": 4857,
+          "endFrame": 4887,
+          "emphasis": false
+        },
+        {
+          "word": "tekrar",
+          "startFrame": 4887,
+          "endFrame": 4916,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "text": "kutuya",
+      "fromFrame": 4916,
+      "toFrame": 4945,
+      "startSec": 81.933,
+      "endSec": 82.417,
+      "wordCount": 1,
+      "words": [
+        {
+          "word": "kutuya",
+          "startFrame": 4916,
+          "endFrame": 4945,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "text": "yerleştiriyorum. Kutuyu",
+      "fromFrame": 5002,
+      "toFrame": 5067,
+      "startSec": 83.367,
+      "endSec": 84.45,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "yerleştiriyorum.",
+          "startFrame": 5002,
+          "endFrame": 5041,
+          "emphasis": false
+        },
+        {
+          "word": "Kutuyu",
+          "startFrame": 5041,
+          "endFrame": 5067,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "text": "gerçekten çok sevdim.",
+      "fromFrame": 5067,
+      "toFrame": 5174,
+      "startSec": 84.45,
+      "endSec": 86.233,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "gerçekten",
+          "startFrame": 5067,
+          "endFrame": 5122,
+          "emphasis": false
+        },
+        {
+          "word": "çok",
+          "startFrame": 5122,
+          "endFrame": 5131,
+          "emphasis": true
+        },
+        {
+          "word": "sevdim.",
+          "startFrame": 5131,
+          "endFrame": 5174,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "text": "Aşırı şey hissettiriyor,",
+      "fromFrame": 5174,
+      "toFrame": 5263,
+      "startSec": 86.233,
+      "endSec": 87.717,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "Aşırı",
+          "startFrame": 5174,
+          "endFrame": 5200,
+          "emphasis": true
+        },
+        {
+          "word": "şey",
+          "startFrame": 5200,
+          "endFrame": 5214,
+          "emphasis": false
+        },
+        {
+          "word": "hissettiriyor,",
+          "startFrame": 5214,
+          "endFrame": 5263,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "text": "kaliteli hissettiriyor.",
+      "fromFrame": 5263,
+      "toFrame": 5348,
+      "startSec": 87.717,
+      "endSec": 89.133,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "kaliteli",
+          "startFrame": 5263,
+          "endFrame": 5290,
+          "emphasis": true
+        },
+        {
+          "word": "hissettiriyor.",
+          "startFrame": 5290,
+          "endFrame": 5348,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "text": "kaliteli bence yarısı",
+      "fromFrame": 5369,
+      "toFrame": 5461,
+      "startSec": 89.483,
+      "endSec": 91.017,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "kaliteli",
+          "startFrame": 5369,
+          "endFrame": 5402,
+          "emphasis": true
+        },
+        {
+          "word": "bence",
+          "startFrame": 5402,
+          "endFrame": 5425,
+          "emphasis": false
+        },
+        {
+          "word": "yarısı",
+          "startFrame": 5425,
+          "endFrame": 5461,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "text": "metalken yarısı da",
+      "fromFrame": 5461,
+      "toFrame": 5545,
+      "startSec": 91.017,
+      "endSec": 92.417,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "metalken",
+          "startFrame": 5461,
+          "endFrame": 5498,
+          "emphasis": true
+        },
+        {
+          "word": "yarısı",
+          "startFrame": 5498,
+          "endFrame": 5535,
+          "emphasis": false
+        },
+        {
+          "word": "da",
+          "startFrame": 5535,
+          "endFrame": 5545,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "text": "plastik gibi",
+      "fromFrame": 5545,
+      "toFrame": 5594,
+      "startSec": 92.417,
+      "endSec": 93.233,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "plastik",
+          "startFrame": 5545,
+          "endFrame": 5575,
+          "emphasis": true
+        },
+        {
+          "word": "gibi",
+          "startFrame": 5575,
+          "endFrame": 5594,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "text": "hissettiriyor o şekilde",
+      "fromFrame": 5621,
+      "toFrame": 5713,
+      "startSec": 93.683,
+      "endSec": 95.217,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "hissettiriyor",
+          "startFrame": 5621,
+          "endFrame": 5660,
+          "emphasis": false
+        },
+        {
+          "word": "o",
+          "startFrame": 5660,
+          "endFrame": 5667,
+          "emphasis": false
+        },
+        {
+          "word": "şekilde",
+          "startFrame": 5666,
+          "endFrame": 5713,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "text": "kutu şarj olabiliyor",
+      "fromFrame": 5713,
+      "toFrame": 5833,
+      "startSec": 95.217,
+      "endSec": 97.217,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "kutu",
+          "startFrame": 5713,
+          "endFrame": 5768,
+          "emphasis": true
+        },
+        {
+          "word": "şarj",
+          "startFrame": 5768,
+          "endFrame": 5800,
+          "emphasis": true
+        },
+        {
+          "word": "olabiliyor",
+          "startFrame": 5800,
+          "endFrame": 5833,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "text": "genel olarak",
+      "fromFrame": 5859,
+      "toFrame": 5906,
+      "startSec": 97.65,
+      "endSec": 98.433,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "genel",
+          "startFrame": 5859,
+          "endFrame": 5890,
+          "emphasis": false
+        },
+        {
+          "word": "olarak",
+          "startFrame": 5890,
+          "endFrame": 5906,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "text": "baktığımızda cihazın",
+      "fromFrame": 5944,
+      "toFrame": 6015,
+      "startSec": 99.067,
+      "endSec": 100.25,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "baktığımızda",
+          "startFrame": 5944,
+          "endFrame": 5983,
+          "emphasis": false
+        },
+        {
+          "word": "cihazın",
+          "startFrame": 5983,
+          "endFrame": 6015,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "text": "verdiği kalite cidden",
+      "fromFrame": 6015,
+      "toFrame": 6106,
+      "startSec": 100.25,
+      "endSec": 101.767,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "verdiği",
+          "startFrame": 6015,
+          "endFrame": 6051,
+          "emphasis": false
+        },
+        {
+          "word": "kalite",
+          "startFrame": 6051,
+          "endFrame": 6077,
+          "emphasis": false
+        },
+        {
+          "word": "cidden",
+          "startFrame": 6077,
+          "endFrame": 6106,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "text": "fiyatına göre kaliteli",
+      "fromFrame": 6106,
+      "toFrame": 6201,
+      "startSec": 101.767,
+      "endSec": 103.35,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "fiyatına",
+          "startFrame": 6106,
+          "endFrame": 6150,
+          "emphasis": true
+        },
+        {
+          "word": "göre",
+          "startFrame": 6150,
+          "endFrame": 6166,
+          "emphasis": false
+        },
+        {
+          "word": "kaliteli",
+          "startFrame": 6166,
+          "endFrame": 6201,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "text": "ve premium hissettiriyor",
+      "fromFrame": 6201,
+      "toFrame": 6300,
+      "startSec": 103.35,
+      "endSec": 105.0,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "ve",
+          "startFrame": 6201,
+          "endFrame": 6210,
+          "emphasis": false
+        },
+        {
+          "word": "premium",
+          "startFrame": 6210,
+          "endFrame": 6241,
+          "emphasis": true
+        },
+        {
+          "word": "hissettiriyor",
+          "startFrame": 6241,
+          "endFrame": 6300,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "text": "özellikle ses kalitesine",
+      "fromFrame": 6300,
+      "toFrame": 6411,
+      "startSec": 105.0,
+      "endSec": 106.85,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "özellikle",
+          "startFrame": 6300,
+          "endFrame": 6345,
+          "emphasis": false
+        },
+        {
+          "word": "ses",
+          "startFrame": 6345,
+          "endFrame": 6358,
+          "emphasis": true
+        },
+        {
+          "word": "kalitesine",
+          "startFrame": 6358,
+          "endFrame": 6411,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "text": "bayıldım hani Mic 3'e",
+      "fromFrame": 6411,
+      "toFrame": 6538,
+      "startSec": 106.85,
+      "endSec": 108.967,
+      "wordCount": 4,
+      "words": [
+        {
+          "word": "bayıldım",
+          "startFrame": 6411,
+          "endFrame": 6469,
+          "emphasis": true
+        },
+        {
+          "word": "hani",
+          "startFrame": 6469,
+          "endFrame": 6493,
+          "emphasis": false
+        },
+        {
+          "word": "Mic",
+          "startFrame": 6493,
+          "endFrame": 6510,
+          "emphasis": false
+        },
+        {
+          "word": "3'e",
+          "startFrame": 6510,
+          "endFrame": 6538,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 69,
+      "text": "gidip 259 Euro",
+      "fromFrame": 6538,
+      "toFrame": 6643,
+      "startSec": 108.967,
+      "endSec": 110.717,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "gidip",
+          "startFrame": 6538,
+          "endFrame": 6570,
+          "emphasis": false
+        },
+        {
+          "word": "259",
+          "startFrame": 6570,
+          "endFrame": 6620,
+          "emphasis": true
+        },
+        {
+          "word": "Euro",
+          "startFrame": 6620,
+          "endFrame": 6643,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "text": "vereceğime gidip 109",
+      "fromFrame": 6643,
+      "toFrame": 6789,
+      "startSec": 110.717,
+      "endSec": 113.15,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "vereceğime",
+          "startFrame": 6643,
+          "endFrame": 6708,
+          "emphasis": false
+        },
+        {
+          "word": "gidip",
+          "startFrame": 6708,
+          "endFrame": 6756,
+          "emphasis": false
+        },
+        {
+          "word": "109",
+          "startFrame": 6756,
+          "endFrame": 6789,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 71,
+      "text": "Euro ya böyle kaliteli",
+      "fromFrame": 6789,
+      "toFrame": 6919,
+      "startSec": 113.15,
+      "endSec": 115.317,
+      "wordCount": 4,
+      "words": [
+        {
+          "word": "Euro",
+          "startFrame": 6789,
+          "endFrame": 6813,
+          "emphasis": true
+        },
+        {
+          "word": "ya",
+          "startFrame": 6813,
+          "endFrame": 6824,
+          "emphasis": false
+        },
+        {
+          "word": "böyle",
+          "startFrame": 6824,
+          "endFrame": 6859,
+          "emphasis": false
+        },
+        {
+          "word": "kaliteli",
+          "startFrame": 6859,
+          "endFrame": 6919,
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "index": 72,
+      "text": "bir malzeme almak için",
+      "fromFrame": 6919,
+      "toFrame": 7021,
+      "startSec": 115.317,
+      "endSec": 117.017,
+      "wordCount": 4,
+      "words": [
+        {
+          "word": "bir",
+          "startFrame": 6919,
+          "endFrame": 6931,
+          "emphasis": false
+        },
+        {
+          "word": "malzeme",
+          "startFrame": 6931,
+          "endFrame": 6961,
+          "emphasis": false
+        },
+        {
+          "word": "almak",
+          "startFrame": 6961,
+          "endFrame": 6991,
+          "emphasis": false
+        },
+        {
+          "word": "için",
+          "startFrame": 6991,
+          "endFrame": 7021,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 73,
+      "text": "cidden beni mutlu etti",
+      "fromFrame": 7021,
+      "toFrame": 7136,
+      "startSec": 117.017,
+      "endSec": 118.933,
+      "wordCount": 4,
+      "words": [
+        {
+          "word": "cidden",
+          "startFrame": 7021,
+          "endFrame": 7058,
+          "emphasis": true
+        },
+        {
+          "word": "beni",
+          "startFrame": 7058,
+          "endFrame": 7081,
+          "emphasis": false
+        },
+        {
+          "word": "mutlu",
+          "startFrame": 7081,
+          "endFrame": 7123,
+          "emphasis": true
+        },
+        {
+          "word": "etti",
+          "startFrame": 7123,
+          "endFrame": 7136,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 74,
+      "text": "Ben",
+      "fromFrame": 7136,
+      "toFrame": 7159,
+      "startSec": 118.933,
+      "endSec": 119.317,
+      "wordCount": 1,
+      "words": [
+        {
+          "word": "Ben",
+          "startFrame": 7136,
+          "endFrame": 7159,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 75,
+      "text": "açıkçası mutlu oldum",
+      "fromFrame": 7188,
+      "toFrame": 7287,
+      "startSec": 119.8,
+      "endSec": 121.45,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "açıkçası",
+          "startFrame": 7188,
+          "endFrame": 7227,
+          "emphasis": false
+        },
+        {
+          "word": "mutlu",
+          "startFrame": 7227,
+          "endFrame": 7257,
+          "emphasis": true
+        },
+        {
+          "word": "oldum",
+          "startFrame": 7257,
+          "endFrame": 7287,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 76,
+      "text": "satın almakla Eğer bu",
+      "fromFrame": 7287,
+      "toFrame": 7407,
+      "startSec": 121.45,
+      "endSec": 123.45,
+      "wordCount": 4,
+      "words": [
+        {
+          "word": "satın",
+          "startFrame": 7287,
+          "endFrame": 7322,
+          "emphasis": false
+        },
+        {
+          "word": "almakla",
+          "startFrame": 7322,
+          "endFrame": 7365,
+          "emphasis": false
+        },
+        {
+          "word": "Eğer",
+          "startFrame": 7365,
+          "endFrame": 7395,
+          "emphasis": false
+        },
+        {
+          "word": "bu",
+          "startFrame": 7395,
+          "endFrame": 7407,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 77,
+      "text": "modeli almak",
+      "fromFrame": 7407,
+      "toFrame": 7470,
+      "startSec": 123.45,
+      "endSec": 124.5,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "modeli",
+          "startFrame": 7407,
+          "endFrame": 7452,
+          "emphasis": false
+        },
+        {
+          "word": "almak",
+          "startFrame": 7452,
+          "endFrame": 7470,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 78,
+      "text": "istiyorsanız",
+      "fromFrame": 7470,
+      "toFrame": 7505,
+      "startSec": 124.5,
+      "endSec": 125.083,
+      "wordCount": 1,
+      "words": [
+        {
+          "word": "istiyorsanız",
+          "startFrame": 7470,
+          "endFrame": 7505,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 79,
+      "text": "alabilirsiniz,",
+      "fromFrame": 7517,
+      "toFrame": 7568,
+      "startSec": 125.283,
+      "endSec": 126.133,
+      "wordCount": 1,
+      "words": [
+        {
+          "word": "alabilirsiniz,",
+          "startFrame": 7517,
+          "endFrame": 7562,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 80,
+      "text": "öneriyorum, gerçekten",
+      "fromFrame": 7568,
+      "toFrame": 7667,
+      "startSec": 126.133,
+      "endSec": 127.783,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "öneriyorum,",
+          "startFrame": 7568,
+          "endFrame": 7604,
+          "emphasis": true
+        },
+        {
+          "word": "gerçekten",
+          "startFrame": 7610,
+          "endFrame": 7664,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "text": "hiç düşünmenize bile",
+      "fromFrame": 7667,
+      "toFrame": 7732,
+      "startSec": 127.783,
+      "endSec": 128.867,
+      "wordCount": 3,
+      "words": [
+        {
+          "word": "hiç",
+          "startFrame": 7667,
+          "endFrame": 7688,
+          "emphasis": true
+        },
+        {
+          "word": "düşünmenize",
+          "startFrame": 7690,
+          "endFrame": 7718,
+          "emphasis": false
+        },
+        {
+          "word": "bile",
+          "startFrame": 7718,
+          "endFrame": 7732,
+          "emphasis": false
+        }
+      ]
+    },
+    {
+      "index": 82,
+      "text": "gerek yok.",
+      "fromFrame": 7732,
+      "toFrame": 7760,
+      "startSec": 128.867,
+      "endSec": 129.333,
+      "wordCount": 2,
+      "words": [
+        {
+          "word": "gerek",
+          "startFrame": 7732,
+          "endFrame": 7742,
+          "emphasis": true
+        },
+        {
+          "word": "yok.",
+          "startFrame": 7742,
+          "endFrame": 7760,
+          "emphasis": true
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "DJI",
+      "startSec": 0.15,
+      "endSec": 0.45,
+      "startFrame": 9,
+      "endFrame": 27,
+      "segmentIndex": 0
+    },
+    {
+      "word": "3'e",
+      "startSec": 0.45,
+      "endSec": 1.47,
+      "startFrame": 27,
+      "endFrame": 88,
+      "segmentIndex": 0
+    },
+    {
+      "word": "iki",
+      "startSec": 1.47,
+      "endSec": 1.79,
+      "startFrame": 88,
+      "endFrame": 107,
+      "segmentIndex": 0
+    },
+    {
+      "word": "katı",
+      "startSec": 1.79,
+      "endSec": 2.04,
+      "startFrame": 107,
+      "endFrame": 122,
+      "segmentIndex": 0
+    },
+    {
+      "word": "para",
+      "startSec": 2.04,
+      "endSec": 2.29,
+      "startFrame": 122,
+      "endFrame": 137,
+      "segmentIndex": 0
+    },
+    {
+      "word": "vermeden",
+      "startSec": 2.29,
+      "endSec": 2.85,
+      "startFrame": 137,
+      "endFrame": 171,
+      "segmentIndex": 0
+    },
+    {
+      "word": "önce",
+      "startSec": 2.85,
+      "endSec": 3.21,
+      "startFrame": 171,
+      "endFrame": 193,
+      "segmentIndex": 0
+    },
+    {
+      "word": "kesinlikle",
+      "startSec": 3.21,
+      "endSec": 3.81,
+      "startFrame": 193,
+      "endFrame": 229,
+      "segmentIndex": 0
+    },
+    {
+      "word": "bu",
+      "startSec": 3.81,
+      "endSec": 3.93,
+      "startFrame": 229,
+      "endFrame": 236,
+      "segmentIndex": 0
+    },
+    {
+      "word": "videoyu",
+      "startSec": 3.93,
+      "endSec": 4.35,
+      "startFrame": 236,
+      "endFrame": 261,
+      "segmentIndex": 0
+    },
+    {
+      "word": "izlemelisin.",
+      "startSec": 4.35,
+      "endSec": 5.03,
+      "startFrame": 261,
+      "endFrame": 302,
+      "segmentIndex": 0
+    },
+    {
+      "word": "Şu",
+      "startSec": 5.03,
+      "endSec": 5.24,
+      "startFrame": 302,
+      "endFrame": 314,
+      "segmentIndex": 0
+    },
+    {
+      "word": "an",
+      "startSec": 5.24,
+      "endSec": 5.46,
+      "startFrame": 314,
+      "endFrame": 328,
+      "segmentIndex": 0
+    },
+    {
+      "word": "elimde",
+      "startSec": 5.46,
+      "endSec": 5.96,
+      "startFrame": 328,
+      "endFrame": 358,
+      "segmentIndex": 0
+    },
+    {
+      "word": "gördüğünüz",
+      "startSec": 5.96,
+      "endSec": 6.89,
+      "startFrame": 358,
+      "endFrame": 413,
+      "segmentIndex": 0
+    },
+    {
+      "word": "bu",
+      "startSec": 6.89,
+      "endSec": 7.03,
+      "startFrame": 413,
+      "endFrame": 422,
+      "segmentIndex": 0
+    },
+    {
+      "word": "cihaz",
+      "startSec": 7.03,
+      "endSec": 7.41,
+      "startFrame": 422,
+      "endFrame": 445,
+      "segmentIndex": 0
+    },
+    {
+      "word": "DJI",
+      "startSec": 7.41,
+      "endSec": 7.95,
+      "startFrame": 445,
+      "endFrame": 477,
+      "segmentIndex": 0
+    },
+    {
+      "word": "serisinin",
+      "startSec": 7.95,
+      "endSec": 8.65,
+      "startFrame": 477,
+      "endFrame": 519,
+      "segmentIndex": 0
+    },
+    {
+      "word": "Mini",
+      "startSec": 8.65,
+      "endSec": 9.07,
+      "startFrame": 519,
+      "endFrame": 544,
+      "segmentIndex": 0
+    },
+    {
+      "word": "2'si",
+      "startSec": 9.07,
+      "endSec": 9.73,
+      "startFrame": 544,
+      "endFrame": 584,
+      "segmentIndex": 0
+    },
+    {
+      "word": "ve",
+      "startSec": 9.73,
+      "endSec": 10.03,
+      "startFrame": 584,
+      "endFrame": 602,
+      "segmentIndex": 0
+    },
+    {
+      "word": "DJI",
+      "startSec": 10.03,
+      "endSec": 10.23,
+      "startFrame": 602,
+      "endFrame": 614,
+      "segmentIndex": 0
+    },
+    {
+      "word": "3'e",
+      "startSec": 10.23,
+      "endSec": 10.74,
+      "startFrame": 614,
+      "endFrame": 644,
+      "segmentIndex": 0
+    },
+    {
+      "word": "göre",
+      "startSec": 10.74,
+      "endSec": 11.27,
+      "startFrame": 644,
+      "endFrame": 676,
+      "segmentIndex": 0
+    },
+    {
+      "word": "yarı",
+      "startSec": 11.27,
+      "endSec": 11.75,
+      "startFrame": 676,
+      "endFrame": 705,
+      "segmentIndex": 0
+    },
+    {
+      "word": "fiyatına.",
+      "startSec": 11.75,
+      "endSec": 12.73,
+      "startFrame": 705,
+      "endFrame": 764,
+      "segmentIndex": 0
+    },
+    {
+      "word": "Finlandiya'da",
+      "startSec": 12.73,
+      "endSec": 13.64,
+      "startFrame": 764,
+      "endFrame": 818,
+      "segmentIndex": 0
+    },
+    {
+      "word": "yaklaşık",
+      "startSec": 13.64,
+      "endSec": 14.34,
+      "startFrame": 818,
+      "endFrame": 860,
+      "segmentIndex": 0
+    },
+    {
+      "word": "109",
+      "startSec": 14.34,
+      "endSec": 14.97,
+      "startFrame": 860,
+      "endFrame": 898,
+      "segmentIndex": 0
+    },
+    {
+      "word": "Euro'ya",
+      "startSec": 14.97,
+      "endSec": 15.39,
+      "startFrame": 898,
+      "endFrame": 923,
+      "segmentIndex": 0
+    },
+    {
+      "word": "aldım",
+      "startSec": 15.39,
+      "endSec": 15.81,
+      "startFrame": 923,
+      "endFrame": 949,
+      "segmentIndex": 0
+    },
+    {
+      "word": "ve",
+      "startSec": 15.81,
+      "endSec": 15.94,
+      "startFrame": 949,
+      "endFrame": 956,
+      "segmentIndex": 0
+    },
+    {
+      "word": "videoda",
+      "startSec": 15.94,
+      "endSec": 16.44,
+      "startFrame": 956,
+      "endFrame": 986,
+      "segmentIndex": 0
+    },
+    {
+      "word": "kutu",
+      "startSec": 16.44,
+      "endSec": 16.84,
+      "startFrame": 986,
+      "endFrame": 1010,
+      "segmentIndex": 0
+    },
+    {
+      "word": "açılımını",
+      "startSec": 16.84,
+      "endSec": 17.71,
+      "startFrame": 1010,
+      "endFrame": 1063,
+      "segmentIndex": 0
+    },
+    {
+      "word": "yaptım.",
+      "startSec": 17.71,
+      "endSec": 18.43,
+      "startFrame": 1063,
+      "endFrame": 1106,
+      "segmentIndex": 0
+    },
+    {
+      "word": "Kutudan",
+      "startSec": 18.43,
+      "endSec": 18.78,
+      "startFrame": 1106,
+      "endFrame": 1127,
+      "segmentIndex": 0
+    },
+    {
+      "word": "neler",
+      "startSec": 18.78,
+      "endSec": 19.03,
+      "startFrame": 1127,
+      "endFrame": 1142,
+      "segmentIndex": 0
+    },
+    {
+      "word": "çıktığını",
+      "startSec": 19.03,
+      "endSec": 19.8,
+      "startFrame": 1142,
+      "endFrame": 1188,
+      "segmentIndex": 0
+    },
+    {
+      "word": "sizinle",
+      "startSec": 19.8,
+      "endSec": 20.16,
+      "startFrame": 1188,
+      "endFrame": 1210,
+      "segmentIndex": 0
+    },
+    {
+      "word": "paylaşmak",
+      "startSec": 20.16,
+      "endSec": 20.66,
+      "startFrame": 1210,
+      "endFrame": 1240,
+      "segmentIndex": 0
+    },
+    {
+      "word": "istiyorum.",
+      "startSec": 20.66,
+      "endSec": 21.35,
+      "startFrame": 1240,
+      "endFrame": 1281,
+      "segmentIndex": 0
+    },
+    {
+      "word": "Videoya",
+      "startSec": 21.35,
+      "endSec": 21.77,
+      "startFrame": 1281,
+      "endFrame": 1306,
+      "segmentIndex": 0
+    },
+    {
+      "word": "geçelim.",
+      "startSec": 21.77,
+      "endSec": 22.467,
+      "startFrame": 1306,
+      "endFrame": 1348,
+      "segmentIndex": 0
+    },
+    {
+      "word": "İlk",
+      "startSec": 22.467,
+      "endSec": 22.777,
+      "startFrame": 1348,
+      "endFrame": 1367,
+      "segmentIndex": 1
+    },
+    {
+      "word": "olarak",
+      "startSec": 22.777,
+      "endSec": 22.977,
+      "startFrame": 1367,
+      "endFrame": 1379,
+      "segmentIndex": 1
+    },
+    {
+      "word": "Lidl'dan",
+      "startSec": 22.977,
+      "endSec": 23.527,
+      "startFrame": 1379,
+      "endFrame": 1412,
+      "segmentIndex": 1
+    },
+    {
+      "word": "aldığım",
+      "startSec": 23.527,
+      "endSec": 24.257,
+      "startFrame": 1412,
+      "endFrame": 1455,
+      "segmentIndex": 1
+    },
+    {
+      "word": "bu",
+      "startSec": 24.257,
+      "endSec": 24.387,
+      "startFrame": 1455,
+      "endFrame": 1463,
+      "segmentIndex": 1
+    },
+    {
+      "word": "bıçakla",
+      "startSec": 24.387,
+      "endSec": 24.897,
+      "startFrame": 1463,
+      "endFrame": 1494,
+      "segmentIndex": 1
+    },
+    {
+      "word": "açmaya",
+      "startSec": 24.897,
+      "endSec": 25.307,
+      "startFrame": 1494,
+      "endFrame": 1518,
+      "segmentIndex": 1
+    },
+    {
+      "word": "çalıştım.",
+      "startSec": 25.307,
+      "endSec": 26.067,
+      "startFrame": 1518,
+      "endFrame": 1564,
+      "segmentIndex": 1
+    },
+    {
+      "word": "Sonra",
+      "startSec": 26.067,
+      "endSec": 26.437,
+      "startFrame": 1564,
+      "endFrame": 1586,
+      "segmentIndex": 1
+    },
+    {
+      "word": "karşıma",
+      "startSec": 26.437,
+      "endSec": 27.267,
+      "startFrame": 1586,
+      "endFrame": 1636,
+      "segmentIndex": 1
+    },
+    {
+      "word": "zaten",
+      "startSec": 27.267,
+      "endSec": 27.477,
+      "startFrame": 1636,
+      "endFrame": 1649,
+      "segmentIndex": 1
+    },
+    {
+      "word": "büyük",
+      "startSec": 27.477,
+      "endSec": 27.997,
+      "startFrame": 1649,
+      "endFrame": 1680,
+      "segmentIndex": 1
+    },
+    {
+      "word": "bir",
+      "startSec": 27.997,
+      "endSec": 28.217,
+      "startFrame": 1680,
+      "endFrame": 1693,
+      "segmentIndex": 1
+    },
+    {
+      "word": "poşet",
+      "startSec": 28.217,
+      "endSec": 28.667,
+      "startFrame": 1693,
+      "endFrame": 1720,
+      "segmentIndex": 1
+    },
+    {
+      "word": "çıktı.",
+      "startSec": 28.667,
+      "endSec": 29.547,
+      "startFrame": 1720,
+      "endFrame": 1773,
+      "segmentIndex": 1
+    },
+    {
+      "word": "Poşetin",
+      "startSec": 29.547,
+      "endSec": 30.067,
+      "startFrame": 1773,
+      "endFrame": 1804,
+      "segmentIndex": 1
+    },
+    {
+      "word": "içinde",
+      "startSec": 30.067,
+      "endSec": 30.537,
+      "startFrame": 1804,
+      "endFrame": 1832,
+      "segmentIndex": 1
+    },
+    {
+      "word": "de",
+      "startSec": 30.537,
+      "endSec": 30.797,
+      "startFrame": 1832,
+      "endFrame": 1848,
+      "segmentIndex": 1
+    },
+    {
+      "word": "DJI'nın",
+      "startSec": 30.797,
+      "endSec": 31.177,
+      "startFrame": 1848,
+      "endFrame": 1871,
+      "segmentIndex": 1
+    },
+    {
+      "word": "verdiği",
+      "startSec": 31.177,
+      "endSec": 31.707,
+      "startFrame": 1871,
+      "endFrame": 1902,
+      "segmentIndex": 1
+    },
+    {
+      "word": "bize",
+      "startSec": 31.707,
+      "endSec": 31.967,
+      "startFrame": 1902,
+      "endFrame": 1918,
+      "segmentIndex": 1
+    },
+    {
+      "word": "gerçekten",
+      "startSec": 31.967,
+      "endSec": 32.637,
+      "startFrame": 1918,
+      "endFrame": 1958,
+      "segmentIndex": 1
+    },
+    {
+      "word": "kaliteli",
+      "startSec": 32.637,
+      "endSec": 33.187,
+      "startFrame": 1958,
+      "endFrame": 1991,
+      "segmentIndex": 1
+    },
+    {
+      "word": "olan",
+      "startSec": 33.187,
+      "endSec": 33.427,
+      "startFrame": 1991,
+      "endFrame": 2006,
+      "segmentIndex": 1
+    },
+    {
+      "word": "bir",
+      "startSec": 33.427,
+      "endSec": 33.627,
+      "startFrame": 2006,
+      "endFrame": 2018,
+      "segmentIndex": 1
+    },
+    {
+      "word": "el",
+      "startSec": 33.627,
+      "endSec": 33.757,
+      "startFrame": 2018,
+      "endFrame": 2025,
+      "segmentIndex": 1
+    },
+    {
+      "word": "çantası.",
+      "startSec": 33.757,
+      "endSec": 34.667,
+      "startFrame": 2025,
+      "endFrame": 2080,
+      "segmentIndex": 1
+    },
+    {
+      "word": "hemen",
+      "startSec": 35.117,
+      "endSec": 35.407,
+      "startFrame": 2107,
+      "endFrame": 2124,
+      "segmentIndex": 2
+    },
+    {
+      "word": "modifiye",
+      "startSec": 35.407,
+      "endSec": 35.817,
+      "startFrame": 2124,
+      "endFrame": 2149,
+      "segmentIndex": 2
+    },
+    {
+      "word": "tırnakları",
+      "startSec": 35.817,
+      "endSec": 36.547,
+      "startFrame": 2149,
+      "endFrame": 2193,
+      "segmentIndex": 2
+    },
+    {
+      "word": "çıkıyor",
+      "startSec": 36.547,
+      "endSec": 37.167,
+      "startFrame": 2193,
+      "endFrame": 2230,
+      "segmentIndex": 2
+    },
+    {
+      "word": "rengarenk",
+      "startSec": 37.167,
+      "endSec": 37.747,
+      "startFrame": 2230,
+      "endFrame": 2265,
+      "segmentIndex": 2
+    },
+    {
+      "word": "mikrofonunuza",
+      "startSec": 37.747,
+      "endSec": 38.507,
+      "startFrame": 2265,
+      "endFrame": 2310,
+      "segmentIndex": 2
+    },
+    {
+      "word": "takabiliyorsunuz",
+      "startSec": 39.007,
+      "endSec": 39.657,
+      "startFrame": 2340,
+      "endFrame": 2379,
+      "segmentIndex": 2
+    },
+    {
+      "word": "değiştirebiliyorsun",
+      "startSec": 39.657,
+      "endSec": 40.233,
+      "startFrame": 2379,
+      "endFrame": 2414,
+      "segmentIndex": 2
+    },
+    {
+      "word": "DJI'nın",
+      "startSec": 40.233,
+      "endSec": 40.803,
+      "startFrame": 2414,
+      "endFrame": 2448,
+      "segmentIndex": 3
+    },
+    {
+      "word": "bize",
+      "startSec": 40.803,
+      "endSec": 41.333,
+      "startFrame": 2448,
+      "endFrame": 2480,
+      "segmentIndex": 3
+    },
+    {
+      "word": "verdiği",
+      "startSec": 41.333,
+      "endSec": 41.883,
+      "startFrame": 2480,
+      "endFrame": 2513,
+      "segmentIndex": 3
+    },
+    {
+      "word": "kutu,",
+      "startSec": 41.883,
+      "endSec": 42.423,
+      "startFrame": 2513,
+      "endFrame": 2545,
+      "segmentIndex": 3
+    },
+    {
+      "word": "içinde",
+      "startSec": 42.423,
+      "endSec": 43.053,
+      "startFrame": 2545,
+      "endFrame": 2583,
+      "segmentIndex": 3
+    },
+    {
+      "word": "mikrofon",
+      "startSec": 43.053,
+      "endSec": 43.773,
+      "startFrame": 2583,
+      "endFrame": 2626,
+      "segmentIndex": 3
+    },
+    {
+      "word": "ve",
+      "startSec": 43.773,
+      "endSec": 43.953,
+      "startFrame": 2626,
+      "endFrame": 2637,
+      "segmentIndex": 3
+    },
+    {
+      "word": "aparatlarınızı",
+      "startSec": 44.833,
+      "endSec": 45.483,
+      "startFrame": 2690,
+      "endFrame": 2729,
+      "segmentIndex": 3
+    },
+    {
+      "word": "bile",
+      "startSec": 45.483,
+      "endSec": 45.843,
+      "startFrame": 2729,
+      "endFrame": 2751,
+      "segmentIndex": 3
+    },
+    {
+      "word": "saklayacağınız",
+      "startSec": 46.723,
+      "endSec": 47.373,
+      "startFrame": 2803,
+      "endFrame": 2842,
+      "segmentIndex": 3
+    },
+    {
+      "word": "bir",
+      "startSec": 47.373,
+      "endSec": 47.643,
+      "startFrame": 2842,
+      "endFrame": 2859,
+      "segmentIndex": 3
+    },
+    {
+      "word": "cidden",
+      "startSec": 47.643,
+      "endSec": 48.183,
+      "startFrame": 2859,
+      "endFrame": 2891,
+      "segmentIndex": 3
+    },
+    {
+      "word": "kaliteli",
+      "startSec": 48.183,
+      "endSec": 48.953,
+      "startFrame": 2891,
+      "endFrame": 2937,
+      "segmentIndex": 3
+    },
+    {
+      "word": "bir",
+      "startSec": 48.953,
+      "endSec": 49.203,
+      "startFrame": 2937,
+      "endFrame": 2952,
+      "segmentIndex": 3
+    },
+    {
+      "word": "kutu.",
+      "startSec": 49.203,
+      "endSec": 49.853,
+      "startFrame": 2952,
+      "endFrame": 2991,
+      "segmentIndex": 3
+    },
+    {
+      "word": "Burada",
+      "startSec": 49.853,
+      "endSec": 50.543,
+      "startFrame": 2991,
+      "endFrame": 3033,
+      "segmentIndex": 3
+    },
+    {
+      "word": "kameraya",
+      "startSec": 50.543,
+      "endSec": 51.353,
+      "startFrame": 3033,
+      "endFrame": 3081,
+      "segmentIndex": 3
+    },
+    {
+      "word": "bağlanacak",
+      "startSec": 51.353,
+      "endSec": 52.423,
+      "startFrame": 3081,
+      "endFrame": 3145,
+      "segmentIndex": 3
+    },
+    {
+      "word": "girişi",
+      "startSec": 53.093,
+      "endSec": 53.743,
+      "startFrame": 3186,
+      "endFrame": 3225,
+      "segmentIndex": 3
+    },
+    {
+      "word": "gösterdim.",
+      "startSec": 53.743,
+      "endSec": 54.733,
+      "startFrame": 3225,
+      "endFrame": 3284,
+      "segmentIndex": 3
+    },
+    {
+      "word": "Burada",
+      "startSec": 54.733,
+      "endSec": 55.203,
+      "startFrame": 3284,
+      "endFrame": 3312,
+      "segmentIndex": 3
+    },
+    {
+      "word": "iki",
+      "startSec": 55.203,
+      "endSec": 55.513,
+      "startFrame": 3312,
+      "endFrame": 3331,
+      "segmentIndex": 3
+    },
+    {
+      "word": "tane",
+      "startSec": 55.513,
+      "endSec": 55.723,
+      "startFrame": 3331,
+      "endFrame": 3343,
+      "segmentIndex": 3
+    },
+    {
+      "word": "daha",
+      "startSec": 55.723,
+      "endSec": 56.093,
+      "startFrame": 3343,
+      "endFrame": 3366,
+      "segmentIndex": 3
+    },
+    {
+      "word": "tırnak",
+      "startSec": 56.093,
+      "endSec": 56.583,
+      "startFrame": 3366,
+      "endFrame": 3395,
+      "segmentIndex": 3
+    },
+    {
+      "word": "veriyor",
+      "startSec": 56.583,
+      "endSec": 57.083,
+      "startFrame": 3395,
+      "endFrame": 3425,
+      "segmentIndex": 3
+    },
+    {
+      "word": "bize",
+      "startSec": 57.083,
+      "endSec": 57.383,
+      "startFrame": 3425,
+      "endFrame": 3443,
+      "segmentIndex": 3
+    },
+    {
+      "word": "onlar",
+      "startSec": 57.383,
+      "endSec": 57.763,
+      "startFrame": 3443,
+      "endFrame": 3466,
+      "segmentIndex": 3
+    },
+    {
+      "word": "orijinal",
+      "startSec": 57.763,
+      "endSec": 58.363,
+      "startFrame": 3466,
+      "endFrame": 3502,
+      "segmentIndex": 3
+    },
+    {
+      "word": "olan",
+      "startSec": 58.363,
+      "endSec": 58.663,
+      "startFrame": 3502,
+      "endFrame": 3520,
+      "segmentIndex": 3
+    },
+    {
+      "word": "klasik.",
+      "startSec": 58.663,
+      "endSec": 59.433,
+      "startFrame": 3520,
+      "endFrame": 3566,
+      "segmentIndex": 3
+    },
+    {
+      "word": "Burada",
+      "startSec": 59.433,
+      "endSec": 59.853,
+      "startFrame": 3566,
+      "endFrame": 3591,
+      "segmentIndex": 3
+    },
+    {
+      "word": "kamera",
+      "startSec": 59.853,
+      "endSec": 60.233,
+      "startFrame": 3591,
+      "endFrame": 3614,
+      "segmentIndex": 3
+    },
+    {
+      "word": "bağlantısını",
+      "startSec": 60.233,
+      "endSec": 61.293,
+      "startFrame": 3614,
+      "endFrame": 3678,
+      "segmentIndex": 3
+    },
+    {
+      "word": "gösteriyorum.",
+      "startSec": 61.763,
+      "endSec": 62.413,
+      "startFrame": 3706,
+      "endFrame": 3745,
+      "segmentIndex": 3
+    },
+    {
+      "word": "Ve",
+      "startSec": 62.413,
+      "endSec": 62.573,
+      "startFrame": 3745,
+      "endFrame": 3754,
+      "segmentIndex": 3
+    },
+    {
+      "word": "bu",
+      "startSec": 62.573,
+      "endSec": 62.753,
+      "startFrame": 3754,
+      "endFrame": 3765,
+      "segmentIndex": 3
+    },
+    {
+      "word": "yakaya",
+      "startSec": 62.753,
+      "endSec": 63.273,
+      "startFrame": 3765,
+      "endFrame": 3796,
+      "segmentIndex": 3
+    },
+    {
+      "word": "taktığınız",
+      "startSec": 63.843,
+      "endSec": 64.493,
+      "startFrame": 3831,
+      "endFrame": 3870,
+      "segmentIndex": 3
+    },
+    {
+      "word": "tırnaklar",
+      "startSec": 64.493,
+      "endSec": 65.393,
+      "startFrame": 3870,
+      "endFrame": 3924,
+      "segmentIndex": 3
+    },
+    {
+      "word": "tamamen",
+      "startSec": 65.393,
+      "endSec": 66.043,
+      "startFrame": 3924,
+      "endFrame": 3963,
+      "segmentIndex": 3
+    },
+    {
+      "word": "mıknatıs",
+      "startSec": 66.043,
+      "endSec": 66.883,
+      "startFrame": 3963,
+      "endFrame": 4013,
+      "segmentIndex": 3
+    },
+    {
+      "word": "ve",
+      "startSec": 66.883,
+      "endSec": 67.003,
+      "startFrame": 4013,
+      "endFrame": 4020,
+      "segmentIndex": 3
+    },
+    {
+      "word": "aşırı",
+      "startSec": 66.993,
+      "endSec": 67.723,
+      "startFrame": 4020,
+      "endFrame": 4063,
+      "segmentIndex": 3
+    },
+    {
+      "word": "güçlü",
+      "startSec": 67.723,
+      "endSec": 68.383,
+      "startFrame": 4063,
+      "endFrame": 4103,
+      "segmentIndex": 3
+    },
+    {
+      "word": "mıknatıs.",
+      "startSec": 69.063,
+      "endSec": 69.713,
+      "startFrame": 4144,
+      "endFrame": 4183,
+      "segmentIndex": 3
+    },
+    {
+      "word": "Arkadaşlar",
+      "startSec": 69.713,
+      "endSec": 70.493,
+      "startFrame": 4183,
+      "endFrame": 4230,
+      "segmentIndex": 3
+    },
+    {
+      "word": "ciddi",
+      "startSec": 70.493,
+      "endSec": 70.843,
+      "startFrame": 4230,
+      "endFrame": 4251,
+      "segmentIndex": 3
+    },
+    {
+      "word": "manada",
+      "startSec": 70.843,
+      "endSec": 71.263,
+      "startFrame": 4251,
+      "endFrame": 4276,
+      "segmentIndex": 3
+    },
+    {
+      "word": "aşırı",
+      "startSec": 71.263,
+      "endSec": 71.813,
+      "startFrame": 4276,
+      "endFrame": 4309,
+      "segmentIndex": 3
+    },
+    {
+      "word": "güçlü.",
+      "startSec": 71.813,
+      "endSec": 72.673,
+      "startFrame": 4309,
+      "endFrame": 4360,
+      "segmentIndex": 3
+    },
+    {
+      "word": "Ben",
+      "startSec": 72.673,
+      "endSec": 72.823,
+      "startFrame": 4360,
+      "endFrame": 4369,
+      "segmentIndex": 3
+    },
+    {
+      "word": "ikisini",
+      "startSec": 72.823,
+      "endSec": 73.203,
+      "startFrame": 4369,
+      "endFrame": 4392,
+      "segmentIndex": 3
+    },
+    {
+      "word": "birleştirdiğimde",
+      "startSec": 73.203,
+      "endSec": 74.143,
+      "startFrame": 4392,
+      "endFrame": 4449,
+      "segmentIndex": 3
+    },
+    {
+      "word": "açamamıştım,",
+      "startSec": 74.143,
+      "endSec": 75.033,
+      "startFrame": 4449,
+      "endFrame": 4502,
+      "segmentIndex": 3
+    },
+    {
+      "word": "zorlanmıştım.",
+      "startSec": 75.033,
+      "endSec": 76.093,
+      "startFrame": 4502,
+      "endFrame": 4566,
+      "segmentIndex": 3
+    },
+    {
+      "word": "telefonunuza",
+      "startSec": 76.583,
+      "endSec": 77.453,
+      "startFrame": 4595,
+      "endFrame": 4647,
+      "segmentIndex": 4
+    },
+    {
+      "word": "takacağınız",
+      "startSec": 78.173,
+      "endSec": 78.823,
+      "startFrame": 4690,
+      "endFrame": 4729,
+      "segmentIndex": 4
+    },
+    {
+      "word": "USB-C'yi",
+      "startSec": 78.823,
+      "endSec": 79.573,
+      "startFrame": 4729,
+      "endFrame": 4774,
+      "segmentIndex": 4
+    },
+    {
+      "word": "Burada",
+      "startSec": 76.623,
+      "endSec": 76.723,
+      "startFrame": 4597,
+      "endFrame": 4603,
+      "segmentIndex": 4
+    },
+    {
+      "word": "gösterdim.",
+      "startSec": 80.303,
+      "endSec": 80.953,
+      "startFrame": 4818,
+      "endFrame": 4857,
+      "segmentIndex": 4
+    },
+    {
+      "word": "Burada",
+      "startSec": 80.953,
+      "endSec": 81.453,
+      "startFrame": 4857,
+      "endFrame": 4887,
+      "segmentIndex": 4
+    },
+    {
+      "word": "tekrar",
+      "startSec": 81.453,
+      "endSec": 81.933,
+      "startFrame": 4887,
+      "endFrame": 4916,
+      "segmentIndex": 4
+    },
+    {
+      "word": "kutuya",
+      "startSec": 81.933,
+      "endSec": 82.413,
+      "startFrame": 4916,
+      "endFrame": 4945,
+      "segmentIndex": 4
+    },
+    {
+      "word": "yerleştiriyorum.",
+      "startSec": 83.363,
+      "endSec": 84.013,
+      "startFrame": 5002,
+      "endFrame": 5041,
+      "segmentIndex": 4
+    },
+    {
+      "word": "Kutuyu",
+      "startSec": 84.013,
+      "endSec": 84.453,
+      "startFrame": 5041,
+      "endFrame": 5067,
+      "segmentIndex": 4
+    },
+    {
+      "word": "gerçekten",
+      "startSec": 84.453,
+      "endSec": 85.373,
+      "startFrame": 5067,
+      "endFrame": 5122,
+      "segmentIndex": 4
+    },
+    {
+      "word": "çok",
+      "startSec": 85.373,
+      "endSec": 85.513,
+      "startFrame": 5122,
+      "endFrame": 5131,
+      "segmentIndex": 4
+    },
+    {
+      "word": "sevdim.",
+      "startSec": 85.513,
+      "endSec": 86.233,
+      "startFrame": 5131,
+      "endFrame": 5174,
+      "segmentIndex": 4
+    },
+    {
+      "word": "Aşırı",
+      "startSec": 86.233,
+      "endSec": 86.673,
+      "startFrame": 5174,
+      "endFrame": 5200,
+      "segmentIndex": 4
+    },
+    {
+      "word": "şey",
+      "startSec": 86.673,
+      "endSec": 86.893,
+      "startFrame": 5200,
+      "endFrame": 5214,
+      "segmentIndex": 4
+    },
+    {
+      "word": "hissettiriyor,",
+      "startSec": 86.893,
+      "endSec": 87.723,
+      "startFrame": 5214,
+      "endFrame": 5263,
+      "segmentIndex": 4
+    },
+    {
+      "word": "kaliteli",
+      "startSec": 87.723,
+      "endSec": 88.173,
+      "startFrame": 5263,
+      "endFrame": 5290,
+      "segmentIndex": 4
+    },
+    {
+      "word": "hissettiriyor.",
+      "startSec": 88.173,
+      "endSec": 89.133,
+      "startFrame": 5290,
+      "endFrame": 5348,
+      "segmentIndex": 4
+    },
+    {
+      "word": "kaliteli",
+      "startSec": 89.483,
+      "endSec": 90.033,
+      "startFrame": 5369,
+      "endFrame": 5402,
+      "segmentIndex": 5
+    },
+    {
+      "word": "bence",
+      "startSec": 90.033,
+      "endSec": 90.413,
+      "startFrame": 5402,
+      "endFrame": 5425,
+      "segmentIndex": 5
+    },
+    {
+      "word": "yarısı",
+      "startSec": 90.413,
+      "endSec": 91.023,
+      "startFrame": 5425,
+      "endFrame": 5461,
+      "segmentIndex": 5
+    },
+    {
+      "word": "metalken",
+      "startSec": 91.023,
+      "endSec": 91.633,
+      "startFrame": 5461,
+      "endFrame": 5498,
+      "segmentIndex": 5
+    },
+    {
+      "word": "yarısı",
+      "startSec": 91.633,
+      "endSec": 92.243,
+      "startFrame": 5498,
+      "endFrame": 5535,
+      "segmentIndex": 5
+    },
+    {
+      "word": "da",
+      "startSec": 92.243,
+      "endSec": 92.413,
+      "startFrame": 5535,
+      "endFrame": 5545,
+      "segmentIndex": 5
+    },
+    {
+      "word": "plastik",
+      "startSec": 92.413,
+      "endSec": 92.923,
+      "startFrame": 5545,
+      "endFrame": 5575,
+      "segmentIndex": 5
+    },
+    {
+      "word": "gibi",
+      "startSec": 92.923,
+      "endSec": 93.233,
+      "startFrame": 5575,
+      "endFrame": 5594,
+      "segmentIndex": 5
+    },
+    {
+      "word": "hissettiriyor",
+      "startSec": 93.683,
+      "endSec": 94.333,
+      "startFrame": 5621,
+      "endFrame": 5660,
+      "segmentIndex": 5
+    },
+    {
+      "word": "o",
+      "startSec": 94.333,
+      "endSec": 94.453,
+      "startFrame": 5660,
+      "endFrame": 5667,
+      "segmentIndex": 5
+    },
+    {
+      "word": "şekilde",
+      "startSec": 94.433,
+      "endSec": 95.223,
+      "startFrame": 5666,
+      "endFrame": 5713,
+      "segmentIndex": 5
+    },
+    {
+      "word": "kutu",
+      "startSec": 95.223,
+      "endSec": 96.133,
+      "startFrame": 5713,
+      "endFrame": 5768,
+      "segmentIndex": 5
+    },
+    {
+      "word": "şarj",
+      "startSec": 96.133,
+      "endSec": 96.673,
+      "startFrame": 5768,
+      "endFrame": 5800,
+      "segmentIndex": 5
+    },
+    {
+      "word": "olabiliyor",
+      "startSec": 96.673,
+      "endSec": 97.213,
+      "startFrame": 5800,
+      "endFrame": 5833,
+      "segmentIndex": 5
+    },
+    {
+      "word": "genel",
+      "startSec": 97.643,
+      "endSec": 98.163,
+      "startFrame": 5859,
+      "endFrame": 5890,
+      "segmentIndex": 6
+    },
+    {
+      "word": "olarak",
+      "startSec": 98.163,
+      "endSec": 98.433,
+      "startFrame": 5890,
+      "endFrame": 5906,
+      "segmentIndex": 6
+    },
+    {
+      "word": "baktığımızda",
+      "startSec": 99.063,
+      "endSec": 99.713,
+      "startFrame": 5944,
+      "endFrame": 5983,
+      "segmentIndex": 6
+    },
+    {
+      "word": "cihazın",
+      "startSec": 99.713,
+      "endSec": 100.253,
+      "startFrame": 5983,
+      "endFrame": 6015,
+      "segmentIndex": 6
+    },
+    {
+      "word": "verdiği",
+      "startSec": 100.253,
+      "endSec": 100.843,
+      "startFrame": 6015,
+      "endFrame": 6051,
+      "segmentIndex": 6
+    },
+    {
+      "word": "kalite",
+      "startSec": 100.843,
+      "endSec": 101.283,
+      "startFrame": 6051,
+      "endFrame": 6077,
+      "segmentIndex": 6
+    },
+    {
+      "word": "cidden",
+      "startSec": 101.283,
+      "endSec": 101.763,
+      "startFrame": 6077,
+      "endFrame": 6106,
+      "segmentIndex": 6
+    },
+    {
+      "word": "fiyatına",
+      "startSec": 101.763,
+      "endSec": 102.503,
+      "startFrame": 6106,
+      "endFrame": 6150,
+      "segmentIndex": 6
+    },
+    {
+      "word": "göre",
+      "startSec": 102.503,
+      "endSec": 102.773,
+      "startFrame": 6150,
+      "endFrame": 6166,
+      "segmentIndex": 6
+    },
+    {
+      "word": "kaliteli",
+      "startSec": 102.773,
+      "endSec": 103.353,
+      "startFrame": 6166,
+      "endFrame": 6201,
+      "segmentIndex": 6
+    },
+    {
+      "word": "ve",
+      "startSec": 103.353,
+      "endSec": 103.503,
+      "startFrame": 6201,
+      "endFrame": 6210,
+      "segmentIndex": 6
+    },
+    {
+      "word": "premium",
+      "startSec": 103.503,
+      "endSec": 104.023,
+      "startFrame": 6210,
+      "endFrame": 6241,
+      "segmentIndex": 6
+    },
+    {
+      "word": "hissettiriyor",
+      "startSec": 104.023,
+      "endSec": 105.003,
+      "startFrame": 6241,
+      "endFrame": 6300,
+      "segmentIndex": 6
+    },
+    {
+      "word": "özellikle",
+      "startSec": 105.003,
+      "endSec": 105.743,
+      "startFrame": 6300,
+      "endFrame": 6345,
+      "segmentIndex": 6
+    },
+    {
+      "word": "ses",
+      "startSec": 105.743,
+      "endSec": 105.963,
+      "startFrame": 6345,
+      "endFrame": 6358,
+      "segmentIndex": 6
+    },
+    {
+      "word": "kalitesine",
+      "startSec": 105.963,
+      "endSec": 106.853,
+      "startFrame": 6358,
+      "endFrame": 6411,
+      "segmentIndex": 6
+    },
+    {
+      "word": "bayıldım",
+      "startSec": 106.853,
+      "endSec": 107.823,
+      "startFrame": 6411,
+      "endFrame": 6469,
+      "segmentIndex": 6
+    },
+    {
+      "word": "hani",
+      "startSec": 107.823,
+      "endSec": 108.213,
+      "startFrame": 6469,
+      "endFrame": 6493,
+      "segmentIndex": 6
+    },
+    {
+      "word": "Mic",
+      "startSec": 108.213,
+      "endSec": 108.503,
+      "startFrame": 6493,
+      "endFrame": 6510,
+      "segmentIndex": 6
+    },
+    {
+      "word": "3'e",
+      "startSec": 108.503,
+      "endSec": 108.973,
+      "startFrame": 6510,
+      "endFrame": 6538,
+      "segmentIndex": 6
+    },
+    {
+      "word": "gidip",
+      "startSec": 108.973,
+      "endSec": 109.503,
+      "startFrame": 6538,
+      "endFrame": 6570,
+      "segmentIndex": 6
+    },
+    {
+      "word": "259",
+      "startSec": 109.503,
+      "endSec": 110.333,
+      "startFrame": 6570,
+      "endFrame": 6620,
+      "segmentIndex": 6
+    },
+    {
+      "word": "Euro",
+      "startSec": 110.333,
+      "endSec": 110.723,
+      "startFrame": 6620,
+      "endFrame": 6643,
+      "segmentIndex": 6
+    },
+    {
+      "word": "vereceğime",
+      "startSec": 110.723,
+      "endSec": 111.793,
+      "startFrame": 6643,
+      "endFrame": 6708,
+      "segmentIndex": 6
+    },
+    {
+      "word": "gidip",
+      "startSec": 111.793,
+      "endSec": 112.593,
+      "startFrame": 6708,
+      "endFrame": 6756,
+      "segmentIndex": 6
+    },
+    {
+      "word": "109",
+      "startSec": 112.593,
+      "endSec": 113.153,
+      "startFrame": 6756,
+      "endFrame": 6789,
+      "segmentIndex": 6
+    },
+    {
+      "word": "Euro",
+      "startSec": 113.153,
+      "endSec": 113.543,
+      "startFrame": 6789,
+      "endFrame": 6813,
+      "segmentIndex": 6
+    },
+    {
+      "word": "ya",
+      "startSec": 113.543,
+      "endSec": 113.733,
+      "startFrame": 6813,
+      "endFrame": 6824,
+      "segmentIndex": 6
+    },
+    {
+      "word": "böyle",
+      "startSec": 113.733,
+      "endSec": 114.323,
+      "startFrame": 6824,
+      "endFrame": 6859,
+      "segmentIndex": 6
+    },
+    {
+      "word": "kaliteli",
+      "startSec": 114.323,
+      "endSec": 115.313,
+      "startFrame": 6859,
+      "endFrame": 6919,
+      "segmentIndex": 6
+    },
+    {
+      "word": "bir",
+      "startSec": 115.313,
+      "endSec": 115.523,
+      "startFrame": 6919,
+      "endFrame": 6931,
+      "segmentIndex": 6
+    },
+    {
+      "word": "malzeme",
+      "startSec": 115.523,
+      "endSec": 116.013,
+      "startFrame": 6931,
+      "endFrame": 6961,
+      "segmentIndex": 6
+    },
+    {
+      "word": "almak",
+      "startSec": 116.013,
+      "endSec": 116.513,
+      "startFrame": 6961,
+      "endFrame": 6991,
+      "segmentIndex": 6
+    },
+    {
+      "word": "için",
+      "startSec": 116.513,
+      "endSec": 117.023,
+      "startFrame": 6991,
+      "endFrame": 7021,
+      "segmentIndex": 6
+    },
+    {
+      "word": "cidden",
+      "startSec": 117.023,
+      "endSec": 117.633,
+      "startFrame": 7021,
+      "endFrame": 7058,
+      "segmentIndex": 6
+    },
+    {
+      "word": "beni",
+      "startSec": 117.633,
+      "endSec": 118.013,
+      "startFrame": 7058,
+      "endFrame": 7081,
+      "segmentIndex": 6
+    },
+    {
+      "word": "mutlu",
+      "startSec": 118.013,
+      "endSec": 118.723,
+      "startFrame": 7081,
+      "endFrame": 7123,
+      "segmentIndex": 6
+    },
+    {
+      "word": "etti",
+      "startSec": 118.723,
+      "endSec": 118.933,
+      "startFrame": 7123,
+      "endFrame": 7136,
+      "segmentIndex": 6
+    },
+    {
+      "word": "Ben",
+      "startSec": 118.933,
+      "endSec": 119.313,
+      "startFrame": 7136,
+      "endFrame": 7159,
+      "segmentIndex": 6
+    },
+    {
+      "word": "açıkçası",
+      "startSec": 119.793,
+      "endSec": 120.443,
+      "startFrame": 7188,
+      "endFrame": 7227,
+      "segmentIndex": 6
+    },
+    {
+      "word": "mutlu",
+      "startSec": 120.443,
+      "endSec": 120.943,
+      "startFrame": 7227,
+      "endFrame": 7257,
+      "segmentIndex": 6
+    },
+    {
+      "word": "oldum",
+      "startSec": 120.943,
+      "endSec": 121.443,
+      "startFrame": 7257,
+      "endFrame": 7287,
+      "segmentIndex": 6
+    },
+    {
+      "word": "satın",
+      "startSec": 121.443,
+      "endSec": 122.033,
+      "startFrame": 7287,
+      "endFrame": 7322,
+      "segmentIndex": 6
+    },
+    {
+      "word": "almakla",
+      "startSec": 122.033,
+      "endSec": 122.743,
+      "startFrame": 7322,
+      "endFrame": 7365,
+      "segmentIndex": 6
+    },
+    {
+      "word": "Eğer",
+      "startSec": 122.743,
+      "endSec": 123.253,
+      "startFrame": 7365,
+      "endFrame": 7395,
+      "segmentIndex": 6
+    },
+    {
+      "word": "bu",
+      "startSec": 123.253,
+      "endSec": 123.453,
+      "startFrame": 7395,
+      "endFrame": 7407,
+      "segmentIndex": 6
+    },
+    {
+      "word": "modeli",
+      "startSec": 123.453,
+      "endSec": 124.193,
+      "startFrame": 7407,
+      "endFrame": 7452,
+      "segmentIndex": 6
+    },
+    {
+      "word": "almak",
+      "startSec": 124.193,
+      "endSec": 124.503,
+      "startFrame": 7452,
+      "endFrame": 7470,
+      "segmentIndex": 6
+    },
+    {
+      "word": "istiyorsanız",
+      "startSec": 124.503,
+      "endSec": 125.083,
+      "startFrame": 7470,
+      "endFrame": 7505,
+      "segmentIndex": 6
+    },
+    {
+      "word": "alabilirsiniz,",
+      "startSec": 125.283,
+      "endSec": 126.033,
+      "startFrame": 7517,
+      "endFrame": 7562,
+      "segmentIndex": 7
+    },
+    {
+      "word": "öneriyorum,",
+      "startSec": 126.133,
+      "endSec": 126.733,
+      "startFrame": 7568,
+      "endFrame": 7604,
+      "segmentIndex": 7
+    },
+    {
+      "word": "gerçekten",
+      "startSec": 126.833,
+      "endSec": 127.733,
+      "startFrame": 7610,
+      "endFrame": 7664,
+      "segmentIndex": 7
+    },
+    {
+      "word": "hiç",
+      "startSec": 127.783,
+      "endSec": 128.133,
+      "startFrame": 7667,
+      "endFrame": 7688,
+      "segmentIndex": 7
+    },
+    {
+      "word": "düşünmenize",
+      "startSec": 128.163,
+      "endSec": 128.633,
+      "startFrame": 7690,
+      "endFrame": 7718,
+      "segmentIndex": 7
+    },
+    {
+      "word": "bile",
+      "startSec": 128.633,
+      "endSec": 128.863,
+      "startFrame": 7718,
+      "endFrame": 7732,
+      "segmentIndex": 7
+    },
+    {
+      "word": "gerek",
+      "startSec": 128.863,
+      "endSec": 129.033,
+      "startFrame": 7732,
+      "endFrame": 7742,
+      "segmentIndex": 7
+    },
+    {
+      "word": "yok.",
+      "startSec": 129.033,
+      "endSec": 129.333,
+      "startFrame": 7742,
+      "endFrame": 7760,
+      "segmentIndex": 7
+    }
+  ]
+}

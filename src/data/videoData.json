@@ -1,0 +1,158 @@
+{
+  "fps": 60,
+  "durationInSeconds": 64.0,
+  "durationInFrames": 3840,
+  "captions": [
+    {
+      "text": "Abi şaka mısınız siz?",
+      "highlight": "şaka mısınız",
+      "startSec": 0.55,
+      "endSec": 1.81
+    },
+    {
+      "text": "Video editörlerine hâlâ para mı veriyorsunuz?",
+      "highlight": "para mı veriyorsunuz",
+      "startSec": 1.81,
+      "endSec": 4.35
+    },
+    {
+      "text": "Arkamda gördüğünüz",
+      "highlight": "gördüğünüz",
+      "startSec": 4.35,
+      "endSec": 6.33
+    },
+    {
+      "text": "video editörü tamamen kodlarla yapıldı",
+      "highlight": "kodlarla yapıldı",
+      "startSec": 6.33,
+      "endSec": 8.35
+    },
+    {
+      "text": "ve çıktı formatları tamamen profesyonel yapıda.",
+      "highlight": "profesyonel yapıda",
+      "startSec": 8.35,
+      "endSec": 11.31
+    },
+    {
+      "text": "Adobe Premiere Pro,",
+      "highlight": "Premiere Pro",
+      "startSec": 11.31,
+      "endSec": 13.45
+    },
+    {
+      "text": "DaVinci Resolve gibi çıktılar verebiliyor.",
+      "highlight": "DaVinci Resolve",
+      "startSec": 13.45,
+      "endSec": 15.09
+    },
+    {
+      "text": "Ses kalitelerine kadar",
+      "highlight": "Ses kalitelerine",
+      "startSec": 15.09,
+      "endSec": 17.45
+    },
+    {
+      "text": "1 gram hata, 1 gram eksilme,",
+      "highlight": "1 gram hata",
+      "startSec": 17.45,
+      "endSec": 18.53
+    },
+    {
+      "text": "bozulma hiçbir şey olmuyor.",
+      "highlight": "hiçbir şey olmuyor",
+      "startSec": 18.53,
+      "endSec": 20.51
+    },
+    {
+      "text": "Bu tamamen ücretsiz.",
+      "highlight": "tamamen ücretsiz",
+      "startSec": 20.51,
+      "endSec": 21.95
+    },
+    {
+      "text": "Eğer merak ediyorsan",
+      "highlight": "merak ediyorsan",
+      "startSec": 21.95,
+      "endSec": 23.55
+    },
+    {
+      "text": "videoyu sonuna kadar izle!",
+      "highlight": "sonuna kadar izle",
+      "startSec": 23.55,
+      "endSec": 25.5
+    },
+    {
+      "text": "Premiere Pro'yu unut,",
+      "highlight": "Premiere Pro'yu",
+      "startSec": 25.5,
+      "endSec": 26.75
+    },
+    {
+      "text": "günlerce render almayı unut",
+      "highlight": "render almayı",
+      "startSec": 26.75,
+      "endSec": 28.95
+    },
+    {
+      "text": "ve bir sürü programa para vermeyi de unut.",
+      "highlight": "para vermeyi de unut",
+      "startSec": 28.95,
+      "endSec": 32.5
+    },
+    {
+      "text": "Bugün size öyle bir program tanıtacağım ki",
+      "highlight": "program tanıtacağım",
+      "startSec": 32.5,
+      "endSec": 36.35
+    },
+    {
+      "text": "kendi yapay zekanız içinde çalışabilen,",
+      "highlight": "yapay zekanız içinde",
+      "startSec": 36.35,
+      "endSec": 39.45
+    },
+    {
+      "text": "tamamen ücretsiz ve bütün formatları destekleyen,",
+      "highlight": "tamamen ücretsiz",
+      "startSec": 39.45,
+      "endSec": 43.35
+    },
+    {
+      "text": "bir gram bile görüntü kalitesini bozmadan çıktı alabilen",
+      "highlight": "görüntü kalitesini bozmadan",
+      "startSec": 43.35,
+      "endSec": 47.95
+    },
+    {
+      "text": "ve ses kalitesini bozmadan çıktı alabilen bir araç.",
+      "highlight": "ses kalitesini bozmadan",
+      "startSec": 47.95,
+      "endSec": 51.8
+    },
+    {
+      "text": "Bu araç tamamen kodla üretildiği için",
+      "highlight": "tamamen kodla üretildiği",
+      "startSec": 51.8,
+      "endSec": 54.12
+    },
+    {
+      "text": "MCP bağlamanıza",
+      "highlight": "MCP bağlamanıza",
+      "startSec": 54.12,
+      "endSec": 56.89
+    },
+    {
+      "text": "ya da hangi yapay zeka modelini kullandığınızın hiçbir önemi yok.",
+      "highlight": "hiçbir önemi yok",
+      "startSec": 56.89,
+      "endSec": 61.33
+    },
+    {
+      "text": "Bütün yapay zekaları destekliyor.",
+      "highlight": "Bütün yapay zekaları",
+      "startSec": 61.33,
+      "endSec": 64.0
+    }
+  ],
+  "triggers": []
+}

@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Remotion & Build Caches
+.remotion/
+out/
+
+# Heavy Machine Learning Models & Pipeline Caches (>100MB GitHub limit)
+pipeline/whisper/
+pipeline/cache/
+*.npy
+*.bin
+*.tar.gz
+*.pth
+*.pt
+
+# Heavy media files (Avoid GitHub 100MB file reject)
+public/*.mp4
+public/*.mov
+public/audio/*.wav
+
+# Environment & System
+.env
+.env.local
+.DS_Store
+Thumbs.db
+*.log
+
